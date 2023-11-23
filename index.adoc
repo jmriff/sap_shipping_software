@@ -79,7 +79,7 @@ link:#p1[]
 
 __
 
-image:../xss/assets/img/portfolio/slide-03.jpg[image]
+image:../shipping-interface/assets/portfolio/slide-03.jpg[image]
 
 == Improving Profit and Customer Service with the Express Shipping Solution
 
@@ -89,7 +89,7 @@ link:#p2[]
 
 __
 
-image:../xss/assets/img/portfolio/slide-04.jpg[image]
+image:../shipping-interface/assets/portfolio/slide-04.jpg[image]
 
 == The Right Stuff
 
@@ -109,7 +109,7 @@ link:#p4[]
 
 __
 
-image:../xss/assets/img/portfolio/slide-05.jpg[image]
+image:../shipping-interface/assets/portfolio/slide-05.jpg[image]
 
 == The Express Shipping Solution Video
 
@@ -119,7 +119,7 @@ link:#p5[]
 
 __
 
-image:../xss/assets/img/portfolio/slide-02.jpg[image]
+image:../shipping-interface/assets/portfolio/slide-02.jpg[image]
 
 == Carrier Shipping Integration Guide
 
@@ -131,7 +131,7 @@ The Express Shipping Solution Whitepaper
 A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
 Web Services
 
-image:../xss/assets/img/portfolio/slide-03.jpg[parcel shipping for SAP -
+image:../shipping-interface/assets/portfolio/slide-03.jpg[parcel shipping for SAP -
 case study]
 
 === ABSTRACT
@@ -160,7 +160,7 @@ __ Close Project
 
 A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
 
-image:../xss/assets/img/portfolio/slide-04.jpg[SAP shipping news]
+image:../shipping-interface/assets/portfolio/slide-04.jpg[SAP shipping news]
 
 [[abstract]]
 === Abstract
@@ -216,7 +216,7 @@ __ Close Project
 Selecting the Best Solution to Integrate Shipping Functions in SAP with
 Parcel Carriers
 
-image:../xss/assets/img/portfolio/slide-02.jpg[Shipping for SAP]
+image:../shipping-interface/assets/portfolio/slide-02.jpg[Shipping for SAP]
 
 A guide to developing an integrated SAP shipping strategy, assessing
 needs, and understanding the basic functionality offered by various
@@ -293,7 +293,7 @@ image:assets/img/xss/carriers/circleUPS.png[SAP shipping for UPS]
 
 Ship with UPS…
 
-===== Efficient Processing
+Efficient Processing
 
 Generate and print carrier-specific shipping lables and documents
 directly from SAP
