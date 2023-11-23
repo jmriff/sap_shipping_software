@@ -88,7 +88,7 @@ link:#p2[]
 
 __
 
-image:..assets/xss/slide-04.jpg[image]
+image:assets/xss/slide-04.jpg[image]
 
 == The Right Stuff
 
@@ -108,7 +108,7 @@ link:#p4[]
 
 __
 
-image:../shipping-interface/assets/portfolio/slide-05.jpg[image]
+image:assets/xss/slide-05.jpg[image]
 
 == The Express Shipping Solution Video
 
@@ -118,7 +118,7 @@ link:#p5[]
 
 __
 
-image:../shipping-interface/assets/portfolio/slide-02.jpg[image]
+image:assets/xss/slide-02.jpg[image]
 
 == Carrier Shipping Integration Guide
 
@@ -130,7 +130,7 @@ The Express Shipping Solution Whitepaper
 A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
 Web Services
 
-image:../shipping-interface/assets/portfolio/slide-03.jpg[parcel shipping for SAP -
+image:assets/xss/slide-03.jpg[parcel shipping for SAP -
 case study]
 
 === ABSTRACT
