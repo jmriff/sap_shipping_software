@@ -5,37 +5,446 @@
 
 You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
 
-== What do I do now?
+link:#page-top[image:assets/img/xss/bh-logo-full.svg[image,height=52]]
 
-Now that you've set up your website to run with AsciiDoc, you have a ton of options available to you.
+Menu __
 
-=== Edit content
+[[navbarResponsive]]
+* link:#services[About]
+* link:#portfolio[Library]
+* link:#about[FAQs]
+* link:#timeline[Carrier List]
+* link:#team[Request Demo]
+* link:#contact[Contact]
+* https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order
+Now!]
 
-Editing content is very simple. The easiest way to update your blog is to clone your repository, fire up your favorite text editor and run the content locally. To do this run the `jekyll serve` command and open a web browser to http://localhost:4000. Jekyll will automatically process and host changes to the content. Also make sure that your `Gemfile` is up-to-date with the current version of your gem sources, e.g. with `gem list --local | grep "jekyll"`.
+Express Shipping Solution
 
-You may also edit your content directly on Github. To do this, navigate the browser the file you wish to edit, click the pensil (edit) button in the upper right hand corner of the view and make your changes. When you're finished, commit your changes. This will trigger Travis to generate and publish a new website including your changes.
+Parcel & Freight Extension for SAP
 
-For blog posts, Jekyll will recognize files under the `_post` directory, parse the name and place it in the list of posts. These will show up under the `site.posts` variable.
+link:#services[Tell Me More]
 
-To display a list of posts, use Jekyll syntax similar to the following:
+[[services]]
+== Tender Packages on SAP
 
-[source, html]
-----
-{% for post in site.posts limit: 5 %}
-<a href=".{{ post.url }}">{{ post.navtitle }}</a>
-{% endfor %}
-----
+=== Generate real value for your customers by adding shipping functions to create an always-on, always-connected, real-time, transparent supply chain
 
-=== Update Look and feel
+[.fa-stack .fa-4x]# __ __ #
 
-The layout provided with the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[Jekyll AsciiDoc Quickstart] project is based on https://foundation.zurb.com[Foundation], a responsive design css framework. You're free to update the layout by editing the `_layouts/default.html` file and css under the `css` directory.
+== 
 
-//This blog layout is based on the https://foundation.zurb.com/templates-previews-sites-f6/blog.html[Blog template].
+E-Commerce and Omnichannel
 
-=== Reference documentation
+A powerful embedded shipping platform that uses modern integration
+technology to tender packages and freight. Activate shipping in your
+existing SAP system and work directly with your transportation partners.
 
-The following links will help with detailed explanations on Jekyll and AsciiDoc.
+[.fa-stack .fa-4x]# __ __ #
 
-* https://jekyllrb.com[Jekyll]
-* https://docs.asciidoctor.org/asciidoc/latest/syntax-quick-reference/[AsciiDoc Quick Reference]
-* https://asciidoctor.org[Asciidoctor]
+== 
+
+Pack, Weigh, Label, Ship, Track, Report
+
+Save time and money with this automated, real-time, reliable,
+easy-to-use shipping solution. Access a broad network of major carriers
+located throughtout the world.
+
+[.fa-stack .fa-4x]# __ __ #
+
+== 
+
+Smart Digital Network with ASN & POD
+
+With the touch of a button, communicate electronically with your
+carriers to ship from warehouses, distribution centers, and
+manufacturing sites. Suports many distribution scenarios, including high
+volume, B2C, B2B, and third-party distribution to support Amazon, Home
+Depot and the like.
+
+[[portfolio]]
+== 
+
+Resource Library
+
+=== 
+
+Learn even more about the Express Shipping Solution and the value it
+brings to your company. Our API-based shipping product isn’t only about
+the physical transportation of goods. It is enabling technology for
+interconnected data flows and supply chain networks. Leverage SAP Best
+Practices for small package and freight shipping.
+
+link:#p1[]
+
+__
+
+image:../xss/assets/img/portfolio/slide-03.jpg[image]
+
+== Improving Profit and Customer Service with the Express Shipping Solution
+
+The Express Shipping Solution Case Study
+
+link:#p2[]
+
+__
+
+image:../xss/assets/img/portfolio/slide-04.jpg[image]
+
+== The Right Stuff
+
+A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+
+link:#p3[]
+
+__
+
+image:assets/img/portfolio/process.png[image]
+
+== Business Process Flow
+
+SAP Best Practices for Shipping
+
+link:#p4[]
+
+__
+
+image:../xss/assets/img/portfolio/slide-05.jpg[image]
+
+== The Express Shipping Solution Video
+
+Overview of parcel shipping software for SAP
+
+link:#p5[]
+
+__
+
+image:../xss/assets/img/portfolio/slide-02.jpg[image]
+
+== Carrier Shipping Integration Guide
+
+The Express Shipping Solution Whitepaper
+
+[[p1]]
+== Improving Profit and Customer Service with teh Express Shipping Solution
+
+A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
+Web Services
+
+image:../xss/assets/img/portfolio/slide-03.jpg[parcel shipping for SAP -
+case study]
+
+=== ABSTRACT
+
+For customers who are seeking ways to drive more efficiency from their
+shipping processes and derive more value from their software
+investments, the Express Shipping Solution provides a set of tools that
+can connect your SAP-based shipping functions directly to those offered
+by parcel carriers such as UPS, FedEx, USPS and DHL via the shippers’
+own web services. This case study focuses on a recent implementation of
+the Express Shipping Solution at a large pharmaceutical company. This
+implementation was a successful example of how the Express Shipping
+Solution combines the native tools available in SAP, including the
+Express Ship Interface, and the cloud-based shipping services offered by
+parcel carriers, to improve the efficiency of a large shipping
+operation.
+
+The Express Shipping Solution Case Study:
+https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-sap-78101294[Improving
+Profit and Customer Service with the Express Shipping Solution].
+
+__ Close Project
+
+[[p2]]
+== The Right Stuff
+
+A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+
+image:../xss/assets/img/portfolio/slide-04.jpg[SAP shipping news]
+
+[[abstract]]
+=== Abstract
+
+Did you know that your SAP system comes loaded with a set of tools that
+connect you directly to parcel carriers such as UPS, FedEx, USPS, and
+DHL? Here we explore the SAP components that will have you shipping
+small package and freight straight from SAP in a matter of weeks, not
+months. In addition to the technology aspects of shipping, we’ll discuss
+business drivers and trends that are attracting companies to adopt SAP’s
+shipping solution. This information is useful for companies interested
+in using the API and Web Service solutions offered by parcel carriers.
+
+Article published in Parcel Industry Magazine:
+http://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html[The
+Right Stuff: a Spotlight on SAP’s Shipping Technology].
+
+__ Close Project
+
+[[p3]]
+== Business Process Flow
+
+SAP Best Practices for Shipping
+
+image:assets/img/portfolio/process.png[image alt text]
+
+__ Close Project
+
+[[p4]]
+== The Express Shipping Solution Video
+
+Overview of parcel shipping software for SAP
+
+image:[image]
+
+=== Key Features of the SAP Express Shipping Solution
+
+* Generate labels for all connected carriers in SAP
+* SAP Master Data Integration
+* Scale & Bar Code Scanning Support
+* Custom Shipping Preference Defaults
+* Rate Procurement with Real-Time Carrier Selection
+* Reverse Logistics Capabilities
+* Tracking Number Creation
+* Track Shipments in SAP
+* Day End Close Activities
+
+__ Close Project
+
+[[p5]]
+== Carrier Shipping Integration Guide
+
+Selecting the Best Solution to Integrate Shipping Functions in SAP with
+Parcel Carriers
+
+image:../xss/assets/img/portfolio/slide-02.jpg[Shipping for SAP]
+
+A guide to developing an integrated SAP shipping strategy, assessing
+needs, and understanding the basic functionality offered by various
+internet-enabled supply chain shipping solutions.
+
+=== A Competitive Necessity
+
+For companies with a shipping function, the Internet has become a
+critical tool for business integration. It fosters greater cooperation
+between trading partners and allows companies to work with their supply
+chain partners to better serve customers, increase profits and drive
+down costs. However, with this capability comes some challenges. For
+many companies, selecting the right tools to drive cooperation and
+integration with partners can be a difficult choice. The selection must
+be made carefully with the ultimate goal in mind: to improve customer
+experience while also driving increased profitability and reduced costs,
+with minimal organizational risk. The goal of this white paper is to
+help companies understand the need for an integrated shipping strategy,
+determine how to assess their needs, and to understand and compare the
+basic functionality that is offered by various internet-enabled supply
+chain shipping solutions. As part of this, we will discuss how
+internet-based API shipping can help organizations better serve their
+customers, while also increasing profits and driving down costs.
+
+The Express Shipping Solution Whitepaper:
+https://www.slideshare.net/BlueHarbors/blueharborwhitepages[Carrier
+Shipping Integration Guide].
+
+__ Close Project
+
+[[about]]
+== Frequently Asked Questions
+
+=== Small Package and Freight Extension for SAP Software
+
+== How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?
+
+Provide your customers with streamlined reliable shipping services.
+Define customer preferences and leverage exsiting SAP data to reduce
+shipping errors and eliminate the need to synchonize data between
+applications. The customer’s ordering experience is improved, driven by
+dependable, simple, trouble-free shipping. Key metrics, such as “On
+time, In full” (OTIF) improve as a result.
+
+== How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?
+
+Shipping is seamlessly imbedded into existing logistics business
+processes and transactions (sales orders, deliveries, and shipments),
+providing ease-of-use to Order Taking and Order Fulfillment Teams.
+Additionally, automation and warehouse efficiencies come from
+integrating SAP with conveyors, scales, scanners, and other devices.
+
+== How does the Express Shipping Solution improve shipping visability and manage carrier performance?
+
+Shipping progress is visable from all standard logistics documents with
+real-time parcel tracking. Proof Of Delivery (POD) details are captured
+in the system for use in building shipping metrics. Monitoring and
+reporting of shipping activity highlights delivery exeptions.
+Proactively alert customers delays, quickly raise issues to the
+carriers, and minimize billing errors.
+
+[[timeline]]
+== 
+
+Work with Your Favorite Carriers
+
+=== Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
+
+* {blank}
++
+image:assets/img/xss/carriers/circleUPS.png[SAP shipping for UPS]
++
+===== 
+
+Ship with UPS…
+
+===== Efficient Processing
+
+Generate and print carrier-specific shipping lables and documents
+directly from SAP
+* {blank}
++
+image:assets/img/xss/carriers/circleFEDEX.png[SAP shipping for FedEx]
++
+===== 
+
+Ship with FedEx…
+
+===== Real Time Visability
+
+Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD)
+details, including the delivery date and time, and name of person who
+signed for package.
+* {blank}
++
+image:assets/img/xss/carriers/circleDHL.png[SAP shipping for DHL]
++
+===== 
+
+Ship with DHL…
+
+===== Automate and Streamline Logistics Processes
+
+Connect Weighing Scales, Barcode Scanners, and Label Printers to SAP
+* {blank}
++
+image:assets/img/xss/carriers/circleDPD.png[SAP shipping for DPD]
++
+===== 
+
+Ship with DPD…
+
+===== Monitor and Manage Carriers
+
+Capture the freight costs, tracking numbers and POD details of each
+shipment in data lakes for reporting
+* {blank}
++
+image:assets/img/xss/carriers/circleUSPS.png[SAP shipping for USPS]
++
+===== 
+
+Ship with USPS…
+
+===== Supports Demanding and Complex Transportation
+
+Select multi-carrier, mutli-modal, multi-service options to reach
+customers located throughout the world
+* {blank}
++
+image:assets/img/xss/carriers/circlePUROLATOR.png[SAP shipping for
+Purolator]
++
+===== 
+
+Ship with Purolator…
+
+===== Reduce Shipping Errors
+
+Validate ship-to addresses when requesting shipping labels
+* {blank}
++
+image:assets/img/xss/carriers/circleCANADAPOST.png[SAP shipping for
+Canada Post]
++
+===== 
+
+Ship with Canada Post…
+
+===== Minimize Data Syncing Errors
+
+Leverage Existing SAP Data to Generate and Print Labels
+* {blank}
++
+image:assets/img/xss/carriers/circleONTRAC.png[SAP shipping for OnTrac]
++
+===== 
+
+Ship with OnTrac…
+
+===== Prepare for Carrier Pickup
+
+Print an End of Day Shipment Manifest for the Carriers’ drivers
+* {blank}
++
+===== Many more carriers available!
+
+[[team]]
+== Request a Product Demonstration
+
+=== 
+
+image:assets/img/xss/josh.jpg[image]
+
+== Agenda (50 minutes)
+
+- Overview of Solution Functionality +
+- Carrier Network +
+- Shipping Services and Capabilities +
+- Solution Technology +
+- Live Demonstration in SAP S/4HANA +
+- Overview of Implementation Project
+
+image:assets/img/xss/webinar-img.jpg[image]
+
+== Purpose
+
+Learn about a powerful SAP shipping extension that uses state-of-the-art
+integration tools to communicate with carriers located throughout the
+world. Activate shipping in your existing SAP system and start working
+with your favorite transportation partners.
+
+image:assets/img/xss/register.png[image]
+
+== Schedule Demo
+
+== Location
+
+This live presentation will be conducted online.
+
+[[clients]]
+https://www.mckesson.com/[image:assets/img/xss/clientMCKESSON.png[McKesson]]
+
+https://www.hookerfurniture.com/[image:assets/img/xss/clientHOOKER.png[Hooker
+Furniture]]
+
+https://www.fxi.com/[image:assets/img/xss/clientFXI.png[FXI]]
+
+https://carpenter.com[image:assets/img/xss/clientCARPENTER.png[Carpenter]]
+
+[[contact]]
+== 
+
+Contact
+
+=== 
+
+link:+12402240609[Call +1 (240) 224-0609]
+
+mailto:info@blueharbors.com[Email info@blueharbors.com]
+
+https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392/[Get
+started today. Purchase the ready-to-implement solution on Upwork now!]
+
+[[success]]Send Message
+
+[.copyright]#Copyright © Parcel and Freight Shipping For SAP 2022#
+
+* https://www.linkedin.com/company/blueharbors[__]
+
+* link:legal[Privacy Policy]
