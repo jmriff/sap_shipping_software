@@ -79,7 +79,7 @@ link:#p1[]
 
 __
 
-image:assets/portfolio/slide-03.jpg[image]
+image:assets/portfolio/slide-03.jpg[This is the update IMAGE]
 
 == Improving Profit and Customer Service with the Express Shipping Solution
 
