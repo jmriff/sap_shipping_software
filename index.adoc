@@ -1,12 +1,9 @@
-= link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]] Express Shipping Solution for SAP
+link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 :showtitle: This is the `"showtile"`
-:page-title: Jekyll AsciiDoc Quickstart
-:page-description: A forkable blog-ready Jekyll site using AsciiDoc
-
-You've successfully set up and deployed an Jekyll website powered by AsciiDoc using the https://github.com/asciidoctor/jekyll-asciidoc-quickstart[*Jekyll AsciiDoc Quickstart*] project. If everything is in order then changes to the AsciiDoc content will be automatically published to your `gh_pages` branch and hosted via Jekyll and Github.
-
-
-Menu __
+:page-title: Blue Harbors Express Shipping Solution for SAP
+:page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
+:page-author: linkedin.com/in/joshriff
+:page-copyright: Common Commons license BY-NC-ND
 
 [[navbarResponsive]]
 * link:#services[About]
@@ -17,6 +14,8 @@ Menu __
 * link:#contact[Contact]
 * https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order
 Now!]
+
+= Express Shipping for SAP
 
 == Express Shipping Solution
 
