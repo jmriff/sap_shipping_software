@@ -78,7 +78,7 @@ link:#p1[]
 
 __
 
-image:assets/portfolio/slide-03.jpg[This is the update IMAGE]
+image:assets/xss/slide-03.jpg[This is the update IMAGE]
 
 == Improving Profit and Customer Service with the Express Shipping Solution
 
@@ -88,7 +88,7 @@ link:#p2[]
 
 __
 
-image:../shipping-interface/assets/portfolio/slide-04.jpg[image]
+image:..assets/xss/slide-04.jpg[image]
 
 == The Right Stuff
 
@@ -98,7 +98,7 @@ link:#p3[]
 
 __
 
-image:assets/img/portfolio/process.png[image]
+image:assets/portfolio/process.png[image]
 
 == Business Process Flow
 
