@@ -1,10 +1,10 @@
-link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
-
-:showtitle: This is the `"showtile"`
+:showtitle: This is the showtile
 :page-title: Blue Harbors Express Shipping Solution for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
 :page-author: linkedin.com/in/joshriff
 :page-copyright: Common Commons license BY-NC-ND
+
+link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 
 [[navbarResponsive]]
 * link:#services[About]
