@@ -4,6 +4,9 @@
 :page-author: https://www.linkedin.com/in/joshriff
 :page-copyright: Common Commons license BY-NC-ND
 
+{blank}
+{blank}
+{blank}
 [%hardbreaks]
 {nbsp}
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
@@ -266,17 +269,9 @@ Work with Your Favorite Carriers
 
 === Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
-* {blank}
-+
-image:assets/xss/carriers/circleUPS.png[SAP shipping for UPS]
-+
-===== 
-
-Ship with UPS…
-
-Efficient Processing
-
-Generate and print carrier-specific shipping lables and documents
+[horizontal,labelwidth=25,itemwidth=75]
+image:assets/xss/carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS…
+Efficient Processing:: Generate and print carrier-specific shipping lables and documents
 directly from SAP
 * {blank}
 +
