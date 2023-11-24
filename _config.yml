@@ -17,7 +17,7 @@ asciidoctor:
     idseparator: _
     stylesdir: css
     source-highlighter: coderay
-authors:
+author:
   name: Hanzou Hattori
   display_name: Hanzou
   gravatar: c66919cb194f96c696c1da0c47354a6a
