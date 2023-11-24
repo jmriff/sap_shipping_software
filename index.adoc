@@ -5,10 +5,6 @@
 :page-copyright: Common Commons license BY-NC-ND
 
 {blank}
-{blank}
-{blank}
-[%hardbreaks]
-{nbsp}
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 
 link:#services[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
@@ -265,13 +261,14 @@ carriers, and minimize billing errors.
 [[timeline]]
 == 
 
-Work with Your Favorite Carriers
+=== Work with Your Favorite Carriers
 
-=== Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
+Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
 [horizontal,labelwidth=25,itemwidth=75]
-image:assets/xss/carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS…
-Efficient Processing:: Generate and print carrier-specific shipping lables and documents
+image:assets/xss/carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS… +
+*_Efficient Processing_* +
+Generate and print carrier-specific shipping lables and documents
 directly from SAP
 * {blank}
 +
