@@ -6,8 +6,8 @@
 
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 
-link:#services[About] %20 %20 %20 %20 %20
-link:#portfolio[Library]
+link:#services[About]`    `
+link:#portfolio[Library]`    `
 link:#about[FAQs]
 link:#timeline[Carrier List]
 link:#team[Request Demo]
