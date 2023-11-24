@@ -5,16 +5,13 @@
 :page-copyright: Common Commons license BY-NC-ND
 
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
-
-[[navbarResponsive]]
-* link:#services[About]
-* link:#portfolio[Library]
-* link:#about[FAQs]
-* link:#timeline[Carrier List]
-* link:#team[Request Demo]
-* link:#contact[Contact]
-* https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order
-Now!]
+link:#services[About]
+link:#portfolio[Library]
+link:#about[FAQs]
+link:#timeline[Carrier List]
+link:#team[Request Demo]
+link:#contact[Contact]
+https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
 //= Express Shipping for SAP
 
