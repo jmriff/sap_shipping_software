@@ -18,11 +18,10 @@ https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-
 
 = Parcel and Freight Shipping for SAP
 
+[.lead]
 Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
-
-E-Commerce and Omnichannel
-
+== E-Commerce and Omnichannel
 ====
 A powerful embedded shipping platform that uses modern integration
 technology to tender packages and freight. Activate shipping in your
@@ -39,14 +38,13 @@ located throughtout the world.
 
 Smart Digital Network with ASN & POD
 
+====
 With the touch of a button, communicate electronically with your
 carriers to ship from warehouses, distribution centers, and
 manufacturing sites. Suports many distribution scenarios, including high
 volume, B2C, B2B, and third-party distribution to support Amazon, Home
 Depot and the like.
-
-[[portfolio]]
-== 
+==== 
 
 Resource Library
 
