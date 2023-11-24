@@ -5,7 +5,7 @@
 :page-copyright: Common Commons license BY-NC-ND
 
 [%hardbreaks]
-{blank}
+{empty} +
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 
 link:#services[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
