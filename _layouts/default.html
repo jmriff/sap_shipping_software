@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{page.title}}</title>
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
-    <meta name="author" content="Your name goes here">
-    <meta name="copyright" content="Maybe consider a Creative Commons license">
+    <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
+    <meta name="copyright" content="{% if page.copyright %}{{ page.copyright }}{% else %}{{ site.copyright }}{% endif %}">
     <link rel="stylesheet" href="{{page.root}}css/foundation.css">
     <style>pre > code { border: 0 }</style>
     <link rel="stylesheet" href="{{page.root}}css/font-awesome.css">
