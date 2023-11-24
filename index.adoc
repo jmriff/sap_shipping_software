@@ -1,8 +1,8 @@
 :showtitle: This is the showtile
 :page-title: Parcel and Freight Shipping for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
-:page-author: linkedin.com/in/joshriff
-:page-copyright: Common Commons license BY-NC-ND
+:author: linkedin.com/in/joshriff
+:copyright: Common Commons license BY-NC-ND
 
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 link:#services[About]
