@@ -2,10 +2,12 @@
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
 :page-author: Josh Riff, https://www.linkedin.com/in/joshriff
 :page-copyright: Common Commons license BY-NC-ND
+:imagesdir: assets
+:icons: font
 
 [%hardbreaks]
 {empty} +
-link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
+link:#page-top[image:xss/bh-logo-full.svg[image,height=52]]
 
 link:#about[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#library[Library]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
@@ -16,11 +18,11 @@ link:#contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
 == [#about]#About#
-
-Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
+This is a comment icon Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
 === E-Commerce and Omnichannel
 ====
+icon:fas fa-shopping-cart[5x,role=yellow]
 A powerful embedded shipping platform that uses modern integration
 technology to tender packages and freight. Activate shipping in your
 existing SAP system and work directly with your transportation partners.
@@ -28,12 +30,14 @@ existing SAP system and work directly with your transportation partners.
 
 === Pack, Weigh, Label, Ship, Track, Report
 ====
+icon:fas fa-laptop[5x,role=yellow]
 Save time and money with this automated, real-time, reliable,
 easy-to-use shipping solution. Access a broad network of major carriers located throughtout the world.
 ==== 
 
 === Smart Digital Network with ASN & POD
 ====
+icon:fas fa-truck[5x,role=yellow]
 With the touch of a button, communicate electronically with your carriers to ship from warehouses, distribution centers, and manufacturing sites. Suports many distribution scenarios, including high volume, B2C, B2B, and third-party distribution to support Amazon, Home Depot and the like.
 ==== 
 
@@ -328,7 +332,7 @@ Print an End of Day Shipment Manifest for the Carriers’ drivers
 +
 ===== Many more carriers available!
 
-== [#domo]#Request a Product Demonstration#
+== [#demo]#Request a Product Demonstration#
 
 === 
 
