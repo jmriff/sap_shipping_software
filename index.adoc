@@ -6,9 +6,10 @@
 
 = Parcel and Freight Extension for SAP
 Josh Riff <info@blueharbors.com>
-:toc: left
+:toc:
 :toc-title: Navigation
 :toclevels: 1
+:toc-class:
 
 [%hardbreaks]
 {empty} +
