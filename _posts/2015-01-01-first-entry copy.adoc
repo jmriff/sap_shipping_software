@@ -1,7 +1,7 @@
 = Resource Library level 0
 :showtitle:
-:page-navtitle: First Entry
-:page-excerpt: Excerpt goes here.
+:page-navtitle: Resource Library
+:page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
 :page-root: ../../../
 :imagesdir: ../assets
 
