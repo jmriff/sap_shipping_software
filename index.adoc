@@ -9,7 +9,6 @@ Josh Riff <info@blueharbors.com>
 :toc:
 :toc-title: Navigation
 :toclevels: 1
-:toc-class: top-bar
 
 [%hardbreaks]
 {empty} +
