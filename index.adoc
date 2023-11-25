@@ -1,4 +1,4 @@
-# Document Title
+# Parcel and Freight Shipping for SAP
 :page-title: Parcel and Freight Shipping Extension for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
 :page-author: Josh Riff, https://www.linkedin.com/in/joshriff
@@ -29,18 +29,18 @@ technology to tender packages and freight. Activate shipping in your
 existing SAP system and work directly with your transportation partners.
 ****
 
-=== Pack, Weigh, Label, Ship, Track, Report
-====
+.Pack, Weigh, Label, Ship, Track, Report
+****
 icon:fas fa-laptop[5x,role=yellow]
 Save time and money with this automated, real-time, reliable,
 easy-to-use shipping solution. Access a broad network of major carriers located throughtout the world.
-==== 
+****
 
-=== Smart Digital Network with ASN & POD
-====
+.Smart Digital Network with ASN & POD
+****
 icon:fas fa-truck[5x,role=yellow]
 With the touch of a button, communicate electronically with your carriers to ship from warehouses, distribution centers, and manufacturing sites. Suports many distribution scenarios, including high volume, B2C, B2B, and third-party distribution to support Amazon, Home Depot and the like.
-==== 
+****
 
 == [#library]#Resource Library#
 
@@ -50,7 +50,7 @@ link:#p1[]
 
 __
 
-image:assets/xss/slide-03.jpg[This is the update IMAGE]
+image:xss/slide-03.jpg[This is the update IMAGE]
 
 === Improving Profit and Customer Service with the Express Shipping Solution
 
@@ -60,7 +60,7 @@ link:#p2[]
 
 __
 
-image:assets/xss/slide-04.jpg[image]
+image:xss/slide-04.jpg[image]
 
 === The Right Stuff
 
@@ -70,7 +70,7 @@ link:#p3[]
 
 __
 
-image:assets/portfolio/process.png[image]
+image:portfolio/process.png[image]
 
 === Business Process Flow
 
@@ -80,7 +80,7 @@ link:#p4[]
 
 __
 
-image:assets/xss/slide-05.jpg[image]
+image:xss/slide-05.jpg[image]
 
 === The Express Shipping Solution Video
 
@@ -90,7 +90,7 @@ link:#p5[]
 
 __
 
-image:assets/xss/slide-02.jpg[image]
+image:xss/slide-02.jpg[image]
 
 === Carrier Shipping Integration Guide
 
@@ -102,7 +102,7 @@ The Express Shipping Solution Whitepaper
 A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
 Web Services
 
-image:assets/xss/slide-03.jpg[parcel shipping for SAP -
+image:xss/slide-03.jpg[parcel shipping for SAP -
 case study]
 
 === ABSTRACT
@@ -131,7 +131,7 @@ __ Close Project
 
 A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
 
-image:../shipping-interface/assets/portfolio/slide-04.jpg[SAP shipping news]
+image:xss/images/slide-04.jpg[SAP shipping news]
 
 [[abstract]]
 === Abstract
@@ -156,7 +156,7 @@ __ Close Project
 
 SAP Best Practices for Shipping
 
-image:assets/img/portfolio/process.png[image alt text]
+image:img/portfolio/process.png[image alt text]
 
 __ Close Project
 
@@ -187,7 +187,7 @@ __ Close Project
 Selecting the Best Solution to Integrate Shipping Functions in SAP with
 Parcel Carriers
 
-image:../shipping-interface/assets/portfolio/slide-02.jpg[Shipping for SAP]
+image:portfolio/slide-02.jpg[Shipping for SAP]
 
 A guide to developing an integrated SAP shipping strategy, assessing
 needs, and understanding the basic functionality offered by various
