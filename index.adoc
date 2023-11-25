@@ -8,53 +8,45 @@
 {empty} +
 link:#page-top[image:assets/xss/bh-logo-full.svg[image,height=52]]
 
-link:#services[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#portfolio[Library]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#about[FAQs]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#timeline[Carrier List]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#team[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#about[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#library[Library]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#faq[FAQs]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#carriers[Carrier List]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#demo[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
-= Parcel and Freight Shipping for SAP
+= Parcel and Freight Extension for SAP
+Blue Harbors <info@blueharbors.com>
+:toc: left
+:toc-title: Navigation
+:toclevels: 1
 
-[.lead]
-Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
+== [#about]#Tender and manifest packages using SAP#
 
-== E-Commerce and Omnichannel
+Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
+
+=== E-Commerce and Omnichannel
 ====
 A powerful embedded shipping platform that uses modern integration
 technology to tender packages and freight. Activate shipping in your
 existing SAP system and work directly with your transportation partners.
 ==== 
 
-Pack, Weigh, Label, Ship, Track, Report
-
+=== Pack, Weigh, Label, Ship, Track, Report
 ====
 Save time and money with this automated, real-time, reliable,
-easy-to-use shipping solution. Access a broad network of major carriers
-located throughtout the world.
+easy-to-use shipping solution. Access a broad network of major carriers located throughtout the world.
 ==== 
 
-Smart Digital Network with ASN & POD
-
+=== Smart Digital Network with ASN & POD
 ====
-With the touch of a button, communicate electronically with your
-carriers to ship from warehouses, distribution centers, and
-manufacturing sites. Suports many distribution scenarios, including high
-volume, B2C, B2B, and third-party distribution to support Amazon, Home
-Depot and the like.
+With the touch of a button, communicate electronically with your carriers to ship from warehouses, distribution centers, and manufacturing sites. Suports many distribution scenarios, including high volume, B2C, B2B, and third-party distribution to support Amazon, Home Depot and the like.
 ==== 
 
-Resource Library
+== [#library]#Resource Library#
 
-=== 
-
-Learn even more about the Express Shipping Solution and the value it
-brings to your company. Our API-based shipping product isn’t only about
-the physical transportation of goods. It is enabling technology for
-interconnected data flows and supply chain networks. Leverage SAP Best
-Practices for small package and freight shipping.
+Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn’t only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
 
 link:#p1[]
 
@@ -228,41 +220,27 @@ Shipping Integration Guide].
 
 __ Close Project
 
-[[about]]
-== Frequently Asked Questions
+== [#faq]#Frequently Asked Questions#
 
-=== Small Package and Freight Extension for SAP Software
+Small Package and Freight Extension for SAP Software
 
-== How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?
+[qanda]
+How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?::
 
 Provide your customers with streamlined reliable shipping services.
 Define customer preferences and leverage exsiting SAP data to reduce
 shipping errors and eliminate the need to synchonize data between
-applications. The customer’s ordering experience is improved, driven by
-dependable, simple, trouble-free shipping. Key metrics, such as “On
-time, In full” (OTIF) improve as a result.
+applications. The customer's ordering experience is improved, driven by dependable, simple, trouble-free shipping. Key metrics, such as “On time, In full” (OTIF) improve as a result.
 
-== How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?
+How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?::
 
-Shipping is seamlessly imbedded into existing logistics business
-processes and transactions (sales orders, deliveries, and shipments),
-providing ease-of-use to Order Taking and Order Fulfillment Teams.
-Additionally, automation and warehouse efficiencies come from
-integrating SAP with conveyors, scales, scanners, and other devices.
+Shipping is seamlessly imbedded into existing logistics business processes and transactions (sales orders, deliveries, and shipments), providing ease-of-use to Order Taking and Order Fulfillment Teams.  Additionally, automation and warehouse efficiencies come from integrating SAP with conveyors, scales, scanners, and other devices.
 
-== How does the Express Shipping Solution improve shipping visability and manage carrier performance?
+How does the Express Shipping Solution improve shipping visability and manage carrier performance?::
 
-Shipping progress is visable from all standard logistics documents with
-real-time parcel tracking. Proof Of Delivery (POD) details are captured
-in the system for use in building shipping metrics. Monitoring and
-reporting of shipping activity highlights delivery exeptions.
-Proactively alert customers delays, quickly raise issues to the
-carriers, and minimize billing errors.
+Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
 
-[[timeline]]
-== 
-
-=== Work with Your Favorite Carriers
+== [#carriers]#Work with Your Favorite Carriers#
 
 Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
@@ -347,7 +325,6 @@ Leverage Existing SAP Data to Generate and Print Labels
 +
 image:assets/xss/carriers/circleONTRAC.png[SAP shipping for OnTrac]
 +
-===== 
 
 Ship with OnTrac…
 
@@ -358,8 +335,7 @@ Print an End of Day Shipment Manifest for the Carriers’ drivers
 +
 ===== Many more carriers available!
 
-[[team]]
-== Request a Product Demonstration
+== [#demo]#Request a Product Demonstration#
 
 === 
 
@@ -401,10 +377,8 @@ https://www.fxi.com/[image:assets/xss/clientFXI.png[FXI]]
 
 https://carpenter.com[image:assets/xss/clientCARPENTER.png[Carpenter]]
 
-[[contact]]
-== 
 
-Contact
+== [#contact]#Contact#
 
 === 
 
