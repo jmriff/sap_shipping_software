@@ -1,14 +1,7 @@
-:page-showtitle: This is the showtile
-:page-title: Parcel and Freight Shipping for SAP
+:page-title: Parcel and Freight Shipping Extension for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
-:page-author: https://www.linkedin.com/in/joshriff
+:page-author: Josh Riff, https://www.linkedin.com/in/joshriff
 :page-copyright: Common Commons license BY-NC-ND
-
-= Parcel and Freight Extension for SAP
-Josh Riff <info@blueharbors.com>
-:toc:
-:toc-title: Navigation
-:toclevels: 1
 
 [%hardbreaks]
 {empty} +
@@ -22,7 +15,7 @@ link:#demo[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
-== About
+== [#about]#About#
 
 Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
@@ -44,7 +37,7 @@ easy-to-use shipping solution. Access a broad network of major carriers located 
 With the touch of a button, communicate electronically with your carriers to ship from warehouses, distribution centers, and manufacturing sites. Suports many distribution scenarios, including high volume, B2C, B2B, and third-party distribution to support Amazon, Home Depot and the like.
 ==== 
 
-== Resource Library
+== [#library]#Resource Library#
 
 Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn’t only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
 
@@ -220,7 +213,7 @@ Shipping Integration Guide].
 
 __ Close Project
 
-== Frequently Asked Questions
+== [#faq]#Frequently Asked Questions#
 
 Small Package and Freight Extension for SAP Software
 
@@ -240,7 +233,7 @@ How does the Express Shipping Solution improve shipping visability and manage ca
 
 Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
 
-== Work with Your Favorite Carriers
+== [#carriers]#Work with Your Favorite Carriers#
 
 Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
@@ -335,7 +328,7 @@ Print an End of Day Shipment Manifest for the Carriers’ drivers
 +
 ===== Many more carriers available!
 
-== Request a Product Demonstration
+== [#domo]#Request a Product Demonstration#
 
 === 
 
@@ -361,7 +354,7 @@ with your favorite transportation partners.
 
 image:assets/xss/register.png[image]
 
-== Schedule Demo
+=== Schedule Demo
 
 === Location
 
@@ -378,16 +371,13 @@ https://www.fxi.com/[image:assets/xss/clientFXI.png[FXI]]
 https://carpenter.com[image:assets/xss/clientCARPENTER.png[Carpenter]]
 
 
-== Contact
-
-=== 
+== [#contact]#Contact#
 
 link:+12402240609[Call +1 (240) 224-0609]
 
 mailto:info@blueharbors.com[Email info@blueharbors.com]
 
-https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392/[Get
-started today. Purchase the ready-to-implement solution on Upwork now!]
+https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392/[Get started today. Purchase the ready-to-implement solution on Upwork now!]
 
 [[success]]Send Message
 
