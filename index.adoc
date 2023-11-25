@@ -21,13 +21,13 @@ https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-
 == [#about]#About#
 This is a comment icon Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
-=== E-Commerce and Omnichannel
-====
+.E-Commerce and Omnichannel
+****
 icon:fas fa-shopping-cart[5x,role=yellow]
 A powerful embedded shipping platform that uses modern integration
 technology to tender packages and freight. Activate shipping in your
 existing SAP system and work directly with your transportation partners.
-==== 
+****
 
 === Pack, Weigh, Label, Ship, Track, Report
 ====
