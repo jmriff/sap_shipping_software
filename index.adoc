@@ -1,4 +1,4 @@
-# Parcel and Freight Shipping
+# Parcel and Freight Shipping for SAP
 :showtitle:
 :page-title: Parcel and Freight Shipping Extension for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
@@ -14,14 +14,7 @@
 // ifndef::env-github[:toclevels: 1]
 // ifndef::env-github[:toc: preamble]
 
-[%hardbreaks]
-{empty} +
-link:#page-top[image:bh_logo/bh-logo-full.svg[image,height=52]] Parcel and Freight Shipping Extension for SAP
-
-== About
-
-This is a
-comment icon Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain. xref:../2023-11-25-resource-library.adoc#_resource_library[good times were had by all]
+Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
 .E-Commerce and Omnichannel
 ****
@@ -69,13 +62,13 @@ Shipping progress is visable from all standard logistics documents with real-tim
 Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
 [horizontal,labelwidth=25,itemwidth=75]
-image:assets/xss/carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS… +
+image:carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS… +
 *_Efficient Processing_* +
 Generate and print carrier-specific shipping lables and documents
 directly from SAP
 * {blank}
 +
-image:assets/carriers/circleFEDEX.png[SAP shipping for FedEx]
+image:carriers/circleFEDEX.png[SAP shipping for FedEx]
 +
 ===== 
 
@@ -88,7 +81,7 @@ details, including the delivery date and time, and name of person who
 signed for package.
 * {blank}
 +
-image:assets/xss/carriers/circleDHL.png[SAP shipping for DHL]
+image:carriers/circleDHL.png[SAP shipping for DHL]
 +
 ===== 
 
@@ -99,7 +92,7 @@ Ship with DHL…
 Connect Weighing Scales, Barcode Scanners, and Label Printers to SAP
 * {blank}
 +
-image:assets/xss/carriers/circleDPD.png[SAP shipping for DPD]
+image:carriers/circleDPD.png[SAP shipping for DPD]
 +
 ===== 
 
@@ -111,7 +104,7 @@ Capture the freight costs, tracking numbers and POD details of each
 shipment in data lakes for reporting
 * {blank}
 +
-image:assets/xss/carriers/circleUSPS.png[SAP shipping for USPS]
+image:carriers/circleUSPS.png[SAP shipping for USPS]
 +
 ===== 
 
@@ -123,7 +116,7 @@ Select multi-carrier, mutli-modal, multi-service options to reach
 customers located throughout the world
 * {blank}
 +
-image:assets/xss/carriers/circlePUROLATOR.png[SAP shipping for
+image:carriers/circlePUROLATOR.png[SAP shipping for
 Purolator]
 +
 ===== 
@@ -135,7 +128,7 @@ Ship with Purolator…
 Validate ship-to addresses when requesting shipping labels
 * {blank}
 +
-image:assets/xss/carriers/circleCANADAPOST.png[SAP shipping for
+image:carriers/circleCANADAPOST.png[SAP shipping for
 Canada Post]
 +
 ===== 
@@ -147,7 +140,7 @@ Ship with Canada Post…
 Leverage Existing SAP Data to Generate and Print Labels
 * {blank}
 +
-image:assets/xss/carriers/circleONTRAC.png[SAP shipping for OnTrac]
+image:carriers/circleONTRAC.png[SAP shipping for OnTrac]
 +
 
 Ship with OnTrac…
@@ -163,7 +156,7 @@ Print an End of Day Shipment Manifest for the Carriers’ drivers
 
 === 
 
-image:assets/xss/josh.jpg[image]
+image:josh.jpg[image]
 
 === Agenda (50 minutes)
 
@@ -174,7 +167,7 @@ image:assets/xss/josh.jpg[image]
 - Live Demonstration in SAP S/4HANA +
 - Overview of Implementation Project
 
-image:assets/xss/webinar-img.jpg[image]
+image:webinar-img.jpg[image]
 
 === Purpose
 
@@ -183,7 +176,7 @@ integration tools to communicate with carriers located throughout the
 world. Activate shipping in your existing SAP system and start working
 with your favorite transportation partners.
 
-image:assets/xss/register.png[image]
+image:register.png[image]
 
 === Schedule Demo
 
@@ -192,14 +185,13 @@ image:assets/xss/register.png[image]
 This live presentation will be conducted online.
 
 [[clients]]
-https://www.mckesson.com/[image:assets/xss/clientMCKESSON.png[McKesson]]
-
-https://www.hookerfurniture.com/[image:assets/xss/clientHOOKER.png[Hooker
-Furniture]]
-
-https://www.fxi.com/[image:assets/xss/clientFXI.png[FXI]]
-
-https://carpenter.com[image:assets/xss/clientCARPENTER.png[Carpenter]]
+https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson, width=144]]
+{nbsp}{nbsp}
+https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture, width=144]]
+{nbsp}{nbsp}
+https://www.fxi.com/[image:clients/clientFXI.png[FXI, width=144]]
+{nbsp}{nbsp}
+https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
 
 
 == Contact
