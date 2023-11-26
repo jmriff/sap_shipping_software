@@ -8,6 +8,8 @@
 ifdef::env-vscode[:relfilesuffix: .html]
 ifdef::env-vscode[:relfileprefix: _posts/]
 :sectids:
+:experimental:
+ifndef::env-github[:toc:]
 
 [%hardbreaks]
 {empty} +
