@@ -1,12 +1,18 @@
-= Resource Library level 0
+= Resource Library
 :showtitle:
+ifdef::env-name[:relfilesuffix: .adoc]
 :page-navtitle: Resource Library
 :page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
+ifdef::env-vscode[:relfilesuffix: .adoc]
+:sectids:
+////
+Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
 
-== [#library]#Resource Library#
+As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
+////
 
 Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
 
@@ -18,7 +24,7 @@ image:trucks/truck-03.jpg[This is the update IMAGE]
 
 === Improving Profit and Customer Service with the Express Shipping Solution
 
-The Express Shipping Solution Case Study
+anchor:bookmark-c[The Express] Shipping Solution Case Study
 
 link:#p2[]
 
