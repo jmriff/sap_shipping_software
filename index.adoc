@@ -10,31 +10,17 @@ ifdef::env-vscode[:relfileprefix: _posts/]
 :sectids:
 :experimental:
 ifndef::env-github[:toc:]
+ifndef::env-github[:toclevels: 1]
+ifndef::env-github[:toc: preamble]
 
 [%hardbreaks]
 {empty} +
-link:#page-top[image:bh_logo/bh-logo-full.svg[image,height=52]]
+link:#page-top[image:bh_logo/bh-logo-full.svg[image,height=52]] Parcel and Freight Shipping Extension for SAP
 
-link:#about[About]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#library[Library]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#faq[FAQs]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#carriers[Carrier List]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#demo[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#_contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
+== About
 
-link:_posts/2023-11-25-resource-library.adoc#top-of-page[README]
-xref:2023-11-25-resource-library.adoc[test 0]
-
-xref:_posts/2023-11-25-resource-library.adoc#resource_library[test 1]
-xref:_posts/2023-11-25-resource-library.adoc#_resource_library[test 2]
-xref:_posts\2023-11-25-resource-library.adoc#_resource_library[test 3]
-xref:_work_with_your_favorite_carriers[Carrier List]
-xref:_request_a_product_demonstration[Request Demo]
-xref:_contact[Contact]
-
-== [#about]#About#
-This is a comment icon Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain. xref:../2023-11-25-resource-library.adoc#_resource_library[good times were had by all]
+This is a
+comment icon Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain. xref:../2023-11-25-resource-library.adoc#_resource_library[good times were had by all]
 
 .E-Commerce and Omnichannel
 ****
@@ -67,7 +53,7 @@ How does the Express Shipping Solution provide value for my customers and furnis
 Provide your customers with streamlined reliable shipping services.
 Define customer preferences and leverage exsiting SAP data to reduce
 shipping errors and eliminate the need to synchonize data between
-applications. The customer's ordering experience is improved, driven by dependable, simple, trouble-free shipping. Key metrics, such as “On time, In full” () improve as a result.
+applications. The customer's ordering experience is improved, driven by dependable, simple, trouble-free shipping. Key metrics, such as “On time, In full” (A) improve as a result.
 
 How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?::
 
@@ -88,7 +74,7 @@ Generate and print carrier-specific shipping lables and documents
 directly from SAP
 * {blank}
 +
-image:assets/xss/carriers/circleFEDEX.png[SAP shipping for FedEx]
+image:assets/carriers/circleFEDEX.png[SAP shipping for FedEx]
 +
 ===== 
 
@@ -216,6 +202,8 @@ https://carpenter.com[image:assets/xss/clientCARPENTER.png[Carpenter]]
 
 
 == Contact
+
+https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
 link:+12402240609[Call +1 (240) 224-0609]
 
