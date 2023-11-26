@@ -3,7 +3,8 @@
 :page-navtitle: Resource Library
 :page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
 :page-root: ../../../
-:imagesdir: ../../../assets
+:imagesdir: ../assets
+:data-uri:
 
 == [#library]#Resource Library#
 
