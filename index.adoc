@@ -57,7 +57,7 @@ How does the Express Shipping Solution improve shipping visability and manage ca
 
 Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
 
-== [#carriers]#Work with Your Favorite Carriers#
+== Work with Your Favorite Carriers
 
 Generate superior value for your customers and improve end-to-end value chains by adding time-critical shipping functions to your SAP system. Experience these benefits:
 
@@ -196,18 +196,7 @@ https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
 
 == Contact
 
-https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
-
-link:+12402240609[Call +1 (240) 224-0609]
+Let's talk about how Blue Harbors shipping software can benefit your business.  Contact us today.
 
 mailto:info@blueharbors.com[Email info@blueharbors.com]
 
-https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392/[Get started today. Purchase the ready-to-implement solution on Upwork now!]
-
-[[success]]Send Message
-
-[.copyright]#Copyright © Parcel and Freight Shipping For SAP 2022#
-
-* https://www.linkedin.com/company/blueharbors[__]
-
-* link:legal[Privacy Policy]
