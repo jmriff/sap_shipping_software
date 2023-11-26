@@ -17,15 +17,15 @@ link:#library[Library]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#faq[FAQs]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#carriers[Carrier List]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#demo[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
-link:#contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
+link:#_contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
-link:posts/2023-11-25-resource-library.adoc[README]
+link:_posts/2023-11-25-resource-library.adoc[README]
+xref:_posts/2023-11-25-resource-library.adoc[test 0]
 
-xref:posts/2023-11-25-resource-library.adoc[test 0]
 xref:_posts/2023-11-25-resource-library.adoc#resource_library[test 1]
-xref:posts/2023-11-25-resource-library.adoc#_resource_library[test 2]
-xref:_posts/2023-11-25-resource-library.adoc#_resource_library[test 3]
+xref:_posts/2023-11-25-resource-library.adoc#_resource_library[test 2]
+xref:_posts\2023-11-25-resource-library.adoc#_resource_library[test 3]
 xref:_work_with_your_favorite_carriers[Carrier List]
 xref:_request_a_product_demonstration[Request Demo]
 xref:_contact[Contact]
