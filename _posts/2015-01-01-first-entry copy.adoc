@@ -23,7 +23,7 @@ link:#p2[]
 
 __
 
-image:xss/slide-04.jpg[image]
+image:trucks/truck-04.jpg[image]
 
 === The Right Stuff
 
@@ -43,7 +43,7 @@ link:#p4[]
 
 __
 
-image:xss/slide-05.jpg[image]
+image:trucks/truck-05.jpg[image]
 
 === The Express Shipping Solution Video
 
@@ -53,7 +53,7 @@ link:#p5[]
 
 __
 
-image:xss/slide-02.jpg[image]
+image:trucks/truck-02.jpg[image]
 
 === Carrier Shipping Integration Guide
 
@@ -65,7 +65,7 @@ The Express Shipping Solution Whitepaper
 A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
 Web Services
 
-image:xss/slide-03.jpg[parcel shipping for SAP -
+image:trucks/truck-03.jpg[parcel shipping for SAP -
 case study]
 
 === ABSTRACT
@@ -74,7 +74,7 @@ For customers who are seeking ways to drive more efficiency from their
 shipping processes and derive more value from their software
 investments, the Express Shipping Solution provides a set of tools that
 can connect your SAP-based shipping functions directly to those offered
-by parcel carriers such as UPS, FedEx, USPS and DHL via the shippers’
+by parcel carriers such as UPS, FedEx, USPS and DHL via the shippers'
 own web services. This case study focuses on a recent implementation of
 the Express Shipping Solution at a large pharmaceutical company. This
 implementation was a successful example of how the Express Shipping
@@ -103,14 +103,14 @@ Did you know that your SAP system comes loaded with a set of tools that
 connect you directly to parcel carriers such as UPS, FedEx, USPS, and
 DHL? Here we explore the SAP components that will have you shipping
 small package and freight straight from SAP in a matter of weeks, not
-months. In addition to the technology aspects of shipping, we’ll discuss
-business drivers and trends that are attracting companies to adopt SAP’s
+months. In addition to the technology aspects of shipping, we'll discuss
+business drivers and trends that are attracting companies to adopt SAP's
 shipping solution. This information is useful for companies interested
 in using the API and Web Service solutions offered by parcel carriers.
 
 Article published in Parcel Industry Magazine:
 http://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html[The
-Right Stuff: a Spotlight on SAP’s Shipping Technology].
+Right Stuff: a Spotlight on SAP's Shipping Technology].
 
 __ Close Project
 
@@ -119,7 +119,7 @@ __ Close Project
 
 SAP Best Practices for Shipping
 
-image:img/portfolio/process.png[image alt text]
+image:shipping_process_flow.png[Shipping Process Flow]
 
 __ Close Project
 
@@ -150,7 +150,7 @@ __ Close Project
 Selecting the Best Solution to Integrate Shipping Functions in SAP with
 Parcel Carriers
 
-image:portfolio/slide-02.jpg[Shipping for SAP]
+image:trucks/truck-02.jpg[Shipping for SAP]
 
 A guide to developing an integrated SAP shipping strategy, assessing
 needs, and understanding the basic functionality offered by various
