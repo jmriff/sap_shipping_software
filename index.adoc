@@ -5,7 +5,8 @@
 :page-copyright: Common Commons license BY-NC-ND
 :imagesdir: assets
 :icons: font
-ifdef::env-vscode[:relfilesuffix: .adoc]
+ifdef::env-vscode[:relfilesuffix: .html]
+ifdef::env-vscode[:relfileprefix: _posts/]
 :sectids:
 
 [%hardbreaks]
@@ -20,8 +21,8 @@ link:#demo[Request Demo]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 link:#_contact[Contact]{nbsp}{nbsp}{nbsp}{nbsp}{nbsp}
 https://www.upwork.com/services/product/an-express-parcel-shipping-solution-for-sap-ecc-s-4hana-1538703549659963392[Order Now!]
 
-link:_posts/2023-11-25-resource-library.adoc[README]
-xref:_posts/2023-11-25-resource-library.adoc[test 0]
+link:_posts/2023-11-25-resource-library.adoc#top-of-page[README]
+xref:2023-11-25-resource-library.adoc[test 0]
 
 xref:_posts/2023-11-25-resource-library.adoc#resource_library[test 1]
 xref:_posts/2023-11-25-resource-library.adoc#_resource_library[test 2]

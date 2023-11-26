@@ -1,4 +1,4 @@
-= Resource Library
+= [#top-of-page]#Resource Library#
 :showtitle:
 ifdef::env-name[:relfilesuffix: .adoc]
 :page-navtitle: Resource Library
