@@ -46,12 +46,13 @@ Generate superior value for your customers and improve end-to-end value chains b
 
 [cols="25%, 75%"]
 |===
-.3+|image:carriers/circleUPS.png[SAP shipping for UPS]
+.2+|image:carriers/circleUPS.png[SAP shipping for UPS]
 <.>|Ship with UPS… 
 
 <.^|*_Efficient Processing_* 
 
 <.<|Generate and print carrier-specific shipping lables and documents directly from SAP
+| test
 |===
 
 {blank}
