@@ -1,7 +1,7 @@
 = [#top-of-page]#Frequently Asked Questions#
 :showtitle:
 ifdef::env-name[:relfilesuffix: .adoc]
-:page-navtitle: Resource Library
+:page-navtitle: FAQ / QandA
 :page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
 :page-root: ../../../
 :imagesdir: ../assets
