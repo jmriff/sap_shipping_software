@@ -50,19 +50,16 @@ image:carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS… +
 Generate and print carrier-specific shipping lables and documents
 directly from SAP
 
-[cols="75%,25%"]
+[frame=none,cols="75%,25%"]
 |===
-|Ship with FedEx…
-.3+.>|image:carriers/circleFEDEX.png[SAP shipping for FedEx]
+>.>|Ship with FedEx…
+.3+|image:carriers/circleFEDEX.png[SAP shipping for FedEx]
 
-.^|*_Real Time Visability_* +
+>.^|*_Real Time Visability_* +
 
-.<|Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD)
-details, including the delivery date and time, and name of person who
+>.<|Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD) details, including the delivery date and time, and name of person who
 signed for package.
-|====
-
-* {blank}
+|===
 +
 image:carriers/circleDHL.png[SAP shipping for DHL]
 +
