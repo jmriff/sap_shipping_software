@@ -1,0 +1,34 @@
+= [#top-of-page]#Frequently Asked Questions#
+:showtitle:
+ifdef::env-name[:relfilesuffix: .adoc]
+:page-navtitle: Resource Library
+:page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+ifdef::env-vscode[:relfilesuffix: .adoc]
+:sectids:
+////
+Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
+
+As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
+////
+
+
+Small Package and Freight Extension for SAP Software
+
+[qanda]
+How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?::
+
+Provide your customers with streamlined reliable shipping services.
+Define customer preferences and leverage exsiting SAP data to reduce
+shipping errors and eliminate the need to synchonize data between
+applications. The customer's ordering experience is improved, driven by dependable, simple, trouble-free shipping. Key metrics, such as “On time, In full” (A) improve as a result.
+
+How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?::
+
+Shipping is seamlessly imbedded into existing logistics business processes and transactions (sales orders, deliveries, and shipments), providing ease-of-use to Order Taking and Order Fulfillment Teams.  Additionally, automation and warehouse efficiencies come from integrating SAP with conveyors, scales, scanners, and other devices.
+
+How does the Express Shipping Solution improve shipping visability and manage carrier performance?::
+
+Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
