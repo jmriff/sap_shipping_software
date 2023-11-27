@@ -47,8 +47,19 @@ Generate superior value for your customers and improve end-to-end value chains b
 [horizontal,labelwidth=25,itemwidth=75]
 image:carriers/circleUPS.png[SAP shipping for UPS]:: Ship with UPS… +
 *_Efficient Processing_* +
-Generate and print carrier-specific shipping lables and documents
-directly from SAP
+Generate and print carrier-specific shipping lables and documents directly from SAP
+
+[cols="25%, 75%"]
+|===
+.3+|image:carriers/circleUPS.png[SAP shipping for UPS]
+<.>|Ship with UPS… 
+
+<.^|*_Efficient Processing_* 
+
+<.<|Generate and print carrier-specific shipping lables and documents directly from SAP
+|===
+
+{blank}
 
 [frame=none,cols="75%,25%"]
 |===
