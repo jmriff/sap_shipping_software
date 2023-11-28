@@ -14,6 +14,8 @@
 // ifndef::env-github[:toclevels: 1]
 // ifndef::env-github[:toc: preamble]
 :table-frame: none
+// define an attribute as an alias for a <blank> line.
+:blank: {empty} +
 
 
 Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
@@ -55,88 +57,89 @@ Generate superior value for your customers and improve end-to-end value chains b
 |===
 
 {blank}
+{blank}
 
-[frame=none,cols="75%,25%"]
+[cols="75%,25%"]
 |===
 >.>|Ship with FedEx…
 .3+|image:carriers/circleFEDEX.png[SAP shipping for FedEx]
 
->.^|*_Real Time Visability_* +
+>.^|*_Real Time Visability_*
 
->.<|Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD) details, including the delivery date and time, and name of person who
-signed for package.
+>.<|Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD) details, including the delivery date and time, and name of person who signed for package.
 |===
-+
-image:carriers/circleDHL.png[SAP shipping for DHL]
-+
-===== 
 
-Ship with DHL…
+[cols="25%, 75%"]
+|===
+.3+|image:carriers/circleDHL.png[SAP shipping for DHL]
+<.>|Ship with DHL…
 
-===== Automate and Streamline Logistics Processes
+<.^|*_Automate and Streamline Logistics Processes_*
 
-Connect Weighing Scales, Barcode Scanners, and Label Printers to SAP
-* {blank}
-+
-image:carriers/circleDPD.png[SAP shipping for DPD]
-+
-===== 
+<.<|Connect Weighing Scales, Barcode Scanners, and Label Printers to SAP
+|===
 
-Ship with DPD…
+{blank}
 
-===== Monitor and Manage Carriers
+[cols="75%,25%"]
+|===
+>.>|Ship with DPD…
+.3+|image:carriers/circleDPD.png[SAP shipping for DPD]
 
-Capture the freight costs, tracking numbers and POD details of each
+ >.^| *_Monitor and Manage Carriers_*
+
+>.<|Capture the freight costs, tracking numbers and POD details of each
 shipment in data lakes for reporting
-* {blank}
-+
-image:carriers/circleUSPS.png[SAP shipping for USPS]
-+
-===== 
+|===
 
-Ship with USPS…
+{blank}
 
-===== Supports Demanding and Complex Transportation
+[cols="25%, 75%"]
+|===
+.3+|image:carriers/circleUSPS.png[SAP shipping for USPS]
+<.>|Ship with USPS…
 
-Select multi-carrier, mutli-modal, multi-service options to reach
-customers located throughout the world
-* {blank}
-+
-image:carriers/circlePUROLATOR.png[SAP shipping for
-Purolator]
-+
-===== 
+<.^|*_Supports Demanding and Complex Transportation_*
 
-Ship with Purolator…
+<.<|Select multi-carrier, mutli-modal, multi-service options to reach customers located throughout the world
+|===
 
-===== Reduce Shipping Errors
+{blank}
 
-Validate ship-to addresses when requesting shipping labels
-* {blank}
-+
-image:carriers/circleCANADAPOST.png[SAP shipping for
+[cols="75%, 25%""]
+|===
+>.>|Ship with Purolator…
+.3+|image:carriers/circlePUROLATOR.png[SAP shipping for Purolator]
+
+>.^|*_Reduce Shipping Errors_*
+
+>.<|Validate ship-to addresses when requesting shipping labels.
+|===
+
+{blank}
+
+[cols="25%, 75%"]
+|===
+.3+|image:carriers/circleCANADAPOST.png[SAP shipping for
 Canada Post]
-+
-===== 
+<.>|Ship with Canada Post…
 
-Ship with Canada Post…
+<.^|*_Minimize Data Syncing Errors_*
 
-===== Minimize Data Syncing Errors
+<.<|Leverage Existing SAP Data to Generate and Print Labels.
+|===
 
-Leverage Existing SAP Data to Generate and Print Labels
-* {blank}
-+
-image:carriers/circleONTRAC.png[SAP shipping for OnTrac]
-+
+[cols="75%, 25%"]
+|===
+>.>|Ship with OnTrac…
+.3+| image:carriers/circleONTRAC.png[SAP shipping for OnTrac]
 
-Ship with OnTrac…
+>.^|*_Prepare for Carrier Pickup_*
 
-===== Prepare for Carrier Pickup
+>.<|Print an End of Day Shipment Manifest for the Carriers' drivers
+|===
 
-Print an End of Day Shipment Manifest for the Carriers’ drivers
-* {blank}
-+
-===== Many more carriers available!
+Many more carriers available!
 
 == [#demo]#Request a Product Demonstration#
 
@@ -153,7 +156,7 @@ image:josh.jpg[image]
 - Live Demonstration in SAP S/4HANA +
 - Overview of Implementation Project
 
-image:webinar-img.jpg[image]
+image:packingStation_small.jpg[image]
 
 === Purpose
 
