@@ -15,7 +15,6 @@
 // ifndef::env-github[:toc: preamble]
 :table-frame: none
 // define an attribute as an alias for a <blank> line.
-:blank: {empty} +
 
 
 Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
@@ -56,8 +55,8 @@ Generate superior value for your customers and improve end-to-end value chains b
 <.<|Generate and print carrier-specific shipping lables and documents directly from SAP
 |===
 
-{blank}
-{blank}
+{empty} +
+{empty} +
 
 [cols="75%,25%"]
 |===
@@ -69,6 +68,9 @@ Generate superior value for your customers and improve end-to-end value chains b
 >.<|Perform Parcel Tracking within SAP. Capture Proof of Delivery (POD) details, including the delivery date and time, and name of person who signed for package.
 |===
 
+{empty} +
+{empty} +
+
 [cols="25%, 75%"]
 |===
 .3+|image:carriers/circleDHL.png[SAP shipping for DHL]
@@ -79,7 +81,8 @@ Generate superior value for your customers and improve end-to-end value chains b
 <.<|Connect Weighing Scales, Barcode Scanners, and Label Printers to SAP
 |===
 
-{blank}
+{empty} +
+{empty} +
 
 [cols="75%,25%"]
 |===
@@ -92,7 +95,9 @@ Generate superior value for your customers and improve end-to-end value chains b
 shipment in data lakes for reporting
 |===
 
-{blank}
+{empty} +
+{empty} +
+
 
 [cols="25%, 75%"]
 |===
@@ -104,7 +109,9 @@ shipment in data lakes for reporting
 <.<|Select multi-carrier, mutli-modal, multi-service options to reach customers located throughout the world
 |===
 
-{blank}
+{empty} +
+{empty} +
+
 
 [cols="75%, 25%""]
 |===
@@ -116,7 +123,9 @@ shipment in data lakes for reporting
 >.<|Validate ship-to addresses when requesting shipping labels.
 |===
 
-{blank}
+{empty} +
+{empty} +
+
 
 [cols="25%, 75%"]
 |===
@@ -129,6 +138,9 @@ Canada Post]
 <.<|Leverage Existing SAP Data to Generate and Print Labels.
 |===
 
+{empty} +
+{empty} +
+
 [cols="75%, 25%"]
 |===
 >.>|Ship with OnTrac…
@@ -139,48 +151,55 @@ Canada Post]
 >.<|Print an End of Day Shipment Manifest for the Carriers' drivers
 |===
 
-Many more carriers available!
+*_Many more carriers available!_*
 
-== [#demo]#Request a Product Demonstration#
+== Request a Product Demonstration
 
-=== 
+[cols="34%, 33%, 33%"]
+[grid="none"]
+|=== 
+|image:josh.jpg[image]
+|image:packingStation_small.jpg[image]
+|image:register.png[image]
 
-image:josh.jpg[image]
+^a| [.lead]
+Agenda (50 minutes)
+^a| [.lead]
+Purpose
+^a| [.lead]
+Schedule Demo
 
-=== Agenda (50 minutes)
+a|* Overview of Solution Functionality
+* Carrier Network
+* Shipping Services and Capabilities
+* Solution Technology
+* Live Demonstration in SAP S/4HANA
+* Overview of Implementation Project
 
-- Overview of Solution Functionality +
-- Carrier Network +
-- Shipping Services and Capabilities +
-- Solution Technology +
-- Live Demonstration in SAP S/4HANA +
-- Overview of Implementation Project
+a|Learn about a powerful SAP shipping extension that uses state-of-the-art integration tools to communicate with carriers located throughout the world. Activate shipping in your existing SAP system and start working with your favorite transportation partners.
+|
 
-image:packingStation_small.jpg[image]
-
-=== Purpose
-
-Learn about a powerful SAP shipping extension that uses state-of-the-art
-integration tools to communicate with carriers located throughout the
-world. Activate shipping in your existing SAP system and start working
-with your favorite transportation partners.
-
-image:register.png[image]
-
-=== Schedule Demo
-
-=== Location
+|
+a|[.lead]
+Location
 
 This live presentation will be conducted online.
+|
+|===
 
-[[clients]]
-https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson, width=144]]
-{nbsp}{nbsp}
-https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture, width=144]]
-{nbsp}{nbsp}
-https://www.fxi.com/[image:clients/clientFXI.png[FXI, width=144]]
-{nbsp}{nbsp}
-https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
+== Clients
+
+[cols="25%, 25%, 25%, 25%"]
+[grid=none]
+|===
+.^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
+
+.^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
+
+.^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
+
+.^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
+|===
 
 
 == Contact
