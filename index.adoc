@@ -155,7 +155,8 @@ Canada Post]
 
 == Request a Product Demonstration
 
-[cols="34%, 33%, 33%", stripes=none]
+[cols="34%, 33%, 33%"]
+[stripes=none]
 [grid="none"]
 |=== 
 |image:josh.jpg[image]
@@ -191,7 +192,9 @@ Location
 
 == Clients
 
-[cols="25%, 25%, 25%, 25%", stripes=none, grid=none]
+[cols="25%, 25%, 25%, 25%"]
+[stripes=none]
+[grid=none]
 |===
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
