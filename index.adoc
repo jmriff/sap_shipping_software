@@ -155,7 +155,7 @@ Canada Post]
 
 == Request a Product Demonstration
 
-[cols="34%, 33%, 33%"]
+[cols="34%, 33%, 33%", stripes=none]
 [grid="none"]
 |=== 
 |image:josh.jpg[image]
@@ -180,17 +180,18 @@ a|Learn about a powerful SAP shipping extension that uses state-of-the-art integ
 |
 
 |
-a|[.lead]
+^a|[.lead]
 Location
+|
 
-This live presentation will be conducted online.
+|
+|This live presentation will be conducted online.
 |
 |===
 
 == Clients
 
-[cols="25%, 25%, 25%, 25%"]
-[grid=none]
+[cols="25%, 25%, 25%, 25%", stripes=none, grid=none]
 |===
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
