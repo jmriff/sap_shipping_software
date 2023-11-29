@@ -196,13 +196,13 @@ Location
 [stripes=none]
 [grid=none]
 |===
-.^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
+.^a|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
-.^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
+.^a|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
 
-.^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
+.^a|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
 
-.^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
+.^a|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
 
