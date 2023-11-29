@@ -177,8 +177,9 @@ a|* Overview of Solution Functionality
 * Live Demonstration in SAP S/4HANA
 * Overview of Implementation Project
 
-a|Learn about a powerful SAP shipping extension that uses state-of-the-art integration tools to communicate with carriers located throughout the world. Activate shipping in your existing SAP system and start working with your favorite transportation partners.
-|
+^|Learn about a powerful SAP shipping extension that uses state-of-the-art integration tools to communicate with carriers located throughout the world. Activate shipping in your existing SAP system and start working with your favorite transportation partners.
+
+^| mailto:info@blueharbors.com[Click here to request product demonstration, Express Shipping Solution - demo, I am interested in learning more about the Express Shipping Solution for SAP.  Schedule a product demonstration.]
 
 |
 ^a|[.lead]
@@ -186,7 +187,7 @@ Location
 |
 
 |
-|This live presentation will be conducted online.
+^|This live presentation will be conducted online.
 |
 |===
 
@@ -196,13 +197,13 @@ Location
 [stripes=none]
 [grid=none]
 |===
-.^a|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
+.^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
-.^a|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
+.^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
 
-.^a|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
+.^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
 
-.^a|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
+.^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
 
