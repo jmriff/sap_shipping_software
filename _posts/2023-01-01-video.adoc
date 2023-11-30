@@ -1,0 +1,24 @@
+= The Express Shipping Solution Video
+:showtitle:
+:page-navtitle: First Entry
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+
+
+Overview of parcel shipping software for SAP
+
+image:[image]
+
+== Key Features of the SAP Express Shipping Solution
+
+* Generate labels for all connected carriers in SAP
+* SAP Master Data Integration
+* Scale & Bar Code Scanning Support
+* Custom Shipping Preference Defaults
+* Rate Procurement with Real-Time Carrier Selection
+* Reverse Logistics Capabilities
+* Tracking Number Creation
+* Track Shipments in SAP
+* Day End Close Activities

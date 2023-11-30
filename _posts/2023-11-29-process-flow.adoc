@@ -1,0 +1,12 @@
+= Business Process Flow
+:showtitle:
+:page-navtitle: First Entry
+:page-excerpt: Excerpt goes here.
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+
+
+SAP Best Practices for Shipping
+
+image:shipping_process_flow.png[Shipping Process Flow]
