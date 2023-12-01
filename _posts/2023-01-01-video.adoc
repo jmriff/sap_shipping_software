@@ -11,6 +11,8 @@ Overview of parcel shipping software for SAP
 
 image:[image]
 
+video::2aFaZnsOpYg[youtube]
+
 == Key Features of the SAP Express Shipping Solution
 
 * Generate labels for all connected carriers in SAP
