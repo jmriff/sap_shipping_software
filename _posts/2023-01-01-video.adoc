@@ -11,7 +11,7 @@ Overview of parcel shipping software for SAP
 
 image:[image]
 
-video::2aFaZnsOpYg[youtubei, width=700, height=526]
+video::2aFaZnsOpYg[youtube, width=700, height=526]
 
 == Key Features of the SAP Express Shipping Solution
 
