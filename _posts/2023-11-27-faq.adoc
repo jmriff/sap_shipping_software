@@ -1,12 +1,10 @@
 = [#top-of-page]#Frequently Asked Questions#
 :showtitle:
-ifdef::env-name[:relfilesuffix: .adoc]
-:page-navtitle: FAQ / QandA
-:page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
+:page-navtitle: FAQ
+:page-excerpt: Common questions about the Express Shipping Solution are raised and answered here.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
-ifdef::env-vscode[:relfilesuffix: .adoc]
 :sectids:
 ////
 Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.

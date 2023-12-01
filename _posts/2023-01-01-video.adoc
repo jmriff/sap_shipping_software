@@ -1,17 +1,13 @@
 = The Express Shipping Solution Video
 :showtitle:
-:page-navtitle: First Entry
-:page-excerpt: Excerpt goes here.
+:page-navtitle: Shipping Video
+:page-excerpt: Overview of parcel shipping software for SAP
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
 
-
-Overview of parcel shipping software for SAP
-
-image:[image]
-
-video::2aFaZnsOpYg[youtube, width=695, height=526]
+.A walkthrough of the product
+video::2aFaZnsOpYg[youtube, width=700, height=526]
 
 == Key Features of the SAP Express Shipping Solution
 

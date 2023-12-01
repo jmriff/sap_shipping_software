@@ -1,7 +1,7 @@
 = Business Process Flow
 :showtitle:
-:page-navtitle: First Entry
-:page-excerpt: Excerpt goes here.
+:page-navtitle: Business Process Flow
+:page-excerpt: Overview showing how shipping fits into overall operations.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
