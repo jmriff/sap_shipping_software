@@ -1,7 +1,7 @@
 title: Parcel and Freight Shipping Extension for SAP
 # uncomment baseurl if you want to publish the site to a subfolder
 #baseurl: /blog
-description: The Jekyll AsciiDoc Quickstart project is a leg-up in starting your own website hosted on GitHub with content based in AsciiDoc.
+description: A powerful embedded shipping platform that uses modern integration technology to tender packages and freight. Activate shipping in your existing SAP system and work directly with your transportation partners.
 exclude:
 - LICENSE
 - README.adoc
