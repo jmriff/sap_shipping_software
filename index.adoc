@@ -214,6 +214,3 @@ Location
 Let's talk about how Blue Harbors shipping software can benefit your business.  Contact us today.
 
 mailto:info@blueharbors.com[Email info@blueharbors.com]
-
-[.copyright]#Copyright © Parcel and Freight Shipping For SAP 2023#
-
