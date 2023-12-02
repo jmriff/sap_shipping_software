@@ -197,6 +197,8 @@ Location
 [stripes=none]
 [grid=none]
 |===
+4+|
+
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
