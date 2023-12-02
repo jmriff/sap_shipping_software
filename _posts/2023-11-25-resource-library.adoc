@@ -22,7 +22,7 @@ __
 
 image:trucks/truck-03.jpg[This is the update IMAGE]
 
-=== Improving Profit and Customer Service with the Express Shipping Solution
+== Improving Profit and Customer Service with the Express Shipping Solution
 
 anchor:bookmark-c[The Express] Shipping Solution Case Study
 
