@@ -1,0 +1,32 @@
+= The Right Stuff
+:showtitle:
+:page-navtitle: The Right Stuff
+:page-excerpt: A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+////
+Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
+
+As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
+////
+
+A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+
+image:trucks/truck-04.jpg[image]
+
+Did you know that your SAP system comes loaded with a set of tools that
+connect you directly to parcel carriers such as UPS, FedEx, USPS, and
+DHL? Here we explore the SAP components that will have you shipping
+small package and freight straight from SAP in a matter of weeks, not
+months. In addition to the technology aspects of shipping, we'll discuss
+business drivers and trends that are attracting companies to adopt SAP's
+shipping solution. This information is useful for companies interested
+in using the API and Web Service solutions offered by parcel carriers.
+
+Article published in Parcel Industry Magazine:
+http://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html[The
+Right Stuff: a Spotlight on SAP's Shipping Technology].
+
+
+Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
