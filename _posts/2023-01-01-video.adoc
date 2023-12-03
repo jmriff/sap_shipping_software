@@ -6,9 +6,6 @@
 :imagesdir: ../assets
 :data-uri:
 
-.A walkthrough of the product
-video::2aFaZnsOpYg[youtube, width=700, height=526]
-
 == Key Features of the SAP Express Shipping Solution
 
 image:trucks/truck-05.jpg[image]
@@ -22,3 +19,13 @@ image:trucks/truck-05.jpg[image]
 * Tracking Number Creation
 * Track Shipments in SAP
 * Day End Close Activities
+
+
+.A walkthrough of the product
+video::2aFaZnsOpYg[youtube, width=700, height=526]
+
+Learn even more about the Express Shipping Solution and the value it brings to
+your company. Our API-based shipping product isn't only about the physical
+transportation of goods. It is enabling technology for interconnected data flows
+and supply chain networks. Leverage SAP Best Practices for small package and
+freight shipping.
