@@ -1,7 +1,7 @@
 = The Express Shipping Solution Video
 :showtitle:
 :page-navtitle: Shipping Video
-:page-excerpt: Overview of parcel shipping software for SAP
+:page-excerpt: Video providing overview of parcel shipping software for SAP
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
@@ -10,6 +10,8 @@
 video::2aFaZnsOpYg[youtube, width=700, height=526]
 
 == Key Features of the SAP Express Shipping Solution
+
+image:trucks/truck-05.jpg[image]
 
 * Generate labels for all connected carriers in SAP
 * SAP Master Data Integration

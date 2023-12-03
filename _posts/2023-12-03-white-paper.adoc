@@ -1,0 +1,52 @@
+= Carrier Shipping Integration Guide
+:showtitle:
+ifdef::env-name[:relfilesuffix: .adoc]
+:page-navtitle: Carrier Shipping Integration Guide
+:page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+ifdef::env-vscode[:relfilesuffix: .adoc]
+:sectids:
+////
+Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
+
+As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
+////
+
+.Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+image:trucks/truck-02.jpg[image]
+
+
+A guide to developing an integrated SAP shipping strategy, assessing needs, and
+understanding the basic functionality offered by various internet-enabled supply
+chain shipping solutions.
+
+== A Competitive Necessity
+
+For companies with a shipping function, the Internet has become a critical tool
+for business integration. It fosters greater cooperation between trading
+partners and allows companies to work with their supply chain partners to better
+serve customers, increase profits and drive down costs. However, with this
+capability comes some challenges. For many companies, selecting the right tools
+to drive cooperation and integration with partners can be a difficult choice.
+The selection must be made carefully with the ultimate goal in mind: to improve
+customer experience while also driving increased profitability and reduced
+costs, with minimal organizational risk. The goal of this white paper is to help
+companies understand the need for an integrated shipping strategy, determine how
+to assess their needs, and to understand and compare the basic functionality
+that is offered by various internet-enabled supply chain shipping solutions. As
+part of this, we will discuss how internet-based API shipping can help
+organizations better serve their customers, while also increasing profits and
+driving down costs.
+
+The Express Shipping Solution Whitepaper:
+https://www.slideshare.net/BlueHarbors/blueharborwhitepages[Carrier
+Shipping Integration Guide].
+
+
+Learn even more about the Express Shipping Solution and the value it brings to
+your company. Our API-based shipping product isn't only about the physical
+transportation of goods. It is enabling technology for interconnected data flows
+and supply chain networks. Leverage SAP Best Practices for small package and
+freight shipping.

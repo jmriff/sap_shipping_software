@@ -1,7 +1,7 @@
 = Business Process Flow
 :showtitle:
 :page-navtitle: Business Process Flow
-:page-excerpt: Overview showing how shipping fits into overall operations.
+:page-excerpt: Overview showing how shipping fits into overall outbound logistics process.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
