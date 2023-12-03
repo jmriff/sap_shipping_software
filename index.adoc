@@ -19,6 +19,8 @@
 
 Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
+image:trucks/truck-01.jpg[image]
+
 .E-Commerce and Omnichannel
 ****
 icon:fas fa-shopping-cart[5x,role=yellow]
