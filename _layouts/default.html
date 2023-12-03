@@ -58,7 +58,7 @@
 
         <h4>Posts</h4>
         <ul id="posts" class="posts nav">
-            {% for post in site.posts limit: 5 %}
+            {% for post in site.posts limit: 50 %}
             <li><a href="{{ post.url | prepend:site.baseurl }}">{{ post.navtitle }}</a></li>
             {% endfor %}
         </ul>
