@@ -210,7 +210,7 @@ Location
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
-[.text-justify]
+[.text-center]
 https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson, width=144]] https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture, width=144]] https://www.fxi.com/[image:clients/clientFXI.png[FXI, width=144]] https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
 
 == Contact
