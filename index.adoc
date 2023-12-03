@@ -211,9 +211,9 @@ Location
 |===
 
 [.text-justify]
-https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
-https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
-https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
+https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]] +
+https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]] +
+https://www.fxi.com/[image:clients/clientFXI.png[FXI]] +
 https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 
 == Contact
