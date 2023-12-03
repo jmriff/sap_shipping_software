@@ -200,6 +200,9 @@ Location
 [grid=none]
 |===
 4+|
++++
+background-color: white
++++
 
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
