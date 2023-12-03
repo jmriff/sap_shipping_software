@@ -1,13 +1,10 @@
-= Improving Profit and Customer Service with teh Express Shipping Solution
+= Improving Profit and Customer Service with the Express Shipping Solution
 :showtitle:
-ifdef::env-name[:relfilesuffix: .adoc]
-:page-navtitle: Improving Profit and Customer Service with teh Express Shipping Solution
+:page-navtitle: Improving Profit and Customer Service
 :page-excerpt: The Express Shipping Solution Case Study
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
-ifdef::env-vscode[:relfilesuffix: .adoc]
-:sectids:
 ////
 Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
 

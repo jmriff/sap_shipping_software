@@ -1,0 +1,160 @@
+= [#top-of-page]#Resource Library#
+:showtitle:
+ifdef::env-name[:relfilesuffix: .adoc]
+:page-navtitle: Resource Library
+:page-excerpt: Learn even more about the Express Shipping Solution and the value it brings to your company.
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri:
+ifdef::env-vscode[:relfilesuffix: .adoc]
+:sectids:
+////
+Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
+
+As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
+////
+
+Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
+
+link:#p1[]
+
+__
+
+image:trucks/truck-03.jpg[This is the update IMAGE]
+
+== Improving Profit and Customer Service with the Express Shipping Solution
+
+anchor:bookmark-c[The Express] Shipping Solution Case Study
+
+link:#p2[]
+
+__
+
+image:trucks/truck-04.jpg[image]
+
+=== The Right Stuff
+
+A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+
+link:#p3[]
+
+__
+
+image:portfolio/process.png[image]
+
+=== Business Process Flow
+
+SAP Best Practices for Shipping
+
+link:#p4[]
+
+__
+
+image:trucks/truck-05.jpg[image]
+
+=== The Express Shipping Solution Video
+
+Overview of parcel shipping software for SAP
+
+link:#p5[]
+
+__
+
+image:trucks/truck-02.jpg[image]
+
+=== Carrier Shipping Integration Guide
+
+The Express Shipping Solution Whitepaper
+
+[[p1]]
+=== Improving Profit and Customer Service with teh Express Shipping Solution
+
+A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier
+Web Services
+
+image:trucks/truck-03.jpg[parcel shipping for SAP -
+case study]
+
+=== ABSTRACT
+
+For customers who are seeking ways to drive more efficiency from their
+shipping processes and derive more value from their software
+investments, the Express Shipping Solution provides a set of tools that
+can connect your SAP-based shipping functions directly to those offered
+by parcel carriers such as UPS, FedEx, USPS and DHL via the shippers'
+own web services. This case study focuses on a recent implementation of
+the Express Shipping Solution at a large pharmaceutical company. This
+implementation was a successful example of how the Express Shipping
+Solution combines the native tools available in SAP, including the
+Express Ship Interface, and the cloud-based shipping services offered by
+parcel carriers, to improve the efficiency of a large shipping
+operation.
+
+The Express Shipping Solution Case Study:
+https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-sap-78101294[Improving
+Profit and Customer Service with the Express Shipping Solution].
+
+__ Close Project
+
+[[p2]]
+=== The Right Stuff
+
+A Spotlight on the Express Shipping Solution in Parcel Industry Magazine
+
+image:xss/images/slide-04.jpg[SAP shipping news]
+
+[[abstract]]
+=== Abstract
+
+Did you know that your SAP system comes loaded with a set of tools that
+connect you directly to parcel carriers such as UPS, FedEx, USPS, and
+DHL? Here we explore the SAP components that will have you shipping
+small package and freight straight from SAP in a matter of weeks, not
+months. In addition to the technology aspects of shipping, we'll discuss
+business drivers and trends that are attracting companies to adopt SAP's
+shipping solution. This information is useful for companies interested
+in using the API and Web Service solutions offered by parcel carriers.
+
+Article published in Parcel Industry Magazine:
+http://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html[The
+Right Stuff: a Spotlight on SAP's Shipping Technology].
+
+__ Close Project
+
+
+[[p5]]
+=== Carrier Shipping Integration Guide
+
+Selecting the Best Solution to Integrate Shipping Functions in SAP with
+Parcel Carriers
+
+image:trucks/truck-02.jpg[Shipping for SAP]
+
+A guide to developing an integrated SAP shipping strategy, assessing
+needs, and understanding the basic functionality offered by various
+internet-enabled supply chain shipping solutions.
+
+=== A Competitive Necessity
+
+For companies with a shipping function, the Internet has become a
+critical tool for business integration. It fosters greater cooperation
+between trading partners and allows companies to work with their supply
+chain partners to better serve customers, increase profits and drive
+down costs. However, with this capability comes some challenges. For
+many companies, selecting the right tools to drive cooperation and
+integration with partners can be a difficult choice. The selection must
+be made carefully with the ultimate goal in mind: to improve customer
+experience while also driving increased profitability and reduced costs,
+with minimal organizational risk. The goal of this white paper is to
+help companies understand the need for an integrated shipping strategy,
+determine how to assess their needs, and to understand and compare the
+basic functionality that is offered by various internet-enabled supply
+chain shipping solutions. As part of this, we will discuss how
+internet-based API shipping can help organizations better serve their
+customers, while also increasing profits and driving down costs.
+
+The Express Shipping Solution Whitepaper:
+https://www.slideshare.net/BlueHarbors/blueharborwhitepages[Carrier
+Shipping Integration Guide].
+
+__ Close Project
