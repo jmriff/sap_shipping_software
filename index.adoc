@@ -210,8 +210,14 @@ Location
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
-[.text-center]
-https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson, width=144]] https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture, width=144]] https://www.fxi.com/[image:clients/clientFXI.png[FXI, width=144]] https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
+[.text-justify]
+https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson, width=144]]{nbsp}
+https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture, width=144]]{nbsp}
+https://www.fxi.com/[image:clients/clientFXI.png[FXI, width=144]]{nbsp}
+https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter, width=144]]
+
+[.text-justify]
+to be or not to be
 
 == Contact
 
