@@ -201,7 +201,7 @@ Location
 |===
 4+|
 +++
-background-color: white;
+<td style="background-color:white;">table</td>
 +++
 
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
