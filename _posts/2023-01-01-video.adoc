@@ -24,11 +24,11 @@ image:trucks/truck-05.jpg[image]
 .Product walkthrough
 video::2aFaZnsOpYg[youtube, width=700, height=526]
 
-[.information]
-Let's have a call to discuss your current situation.  Learn even more about
-*the Express Shipping Solution for SAP* and the value it brings to your
+[NOTE]
+Learn even more about *the Express Shipping Solution for SAP* and the value it brings to your
 company. Our embedded shipping software goes beyond manifesting and printing
 shipping labels.  It drives enabling technology for building interconnected
 data flows and supply chain networks with your existing trading partners.
 Leverage SAP Best Practices for small package and freight shipping.  Contact us
-today at info@blueharbors.com.
+today at info@blueharbors.com.  Let's have a call to discuss your current
+situation and see if Blue Harbors can help.
