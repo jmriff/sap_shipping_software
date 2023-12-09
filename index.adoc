@@ -15,11 +15,13 @@
 // ifndef::env-github[:toc: preamble]
 :table-frame: none
 // define an attribute as an alias for a <blank> line.
+:footer: This is a test
 
 
-Tender and manifest packages using SAP.  Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
-
+.Tender and manifest packages using SAP
 image:trucks/truck-01.jpg[image]
+
+Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
 .E-Commerce and Omnichannel
 ****
