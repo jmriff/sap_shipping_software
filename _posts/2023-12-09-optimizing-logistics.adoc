@@ -53,6 +53,4 @@ At Blue Harbors Express Shipping Solutions, we understand the vital role logisti
 
 * *Focus on your core business:*{nbsp}{nbsp} We take care of the logistics, allowing you to focus on what you do best.
 
-In today's competitive world, having a reliable and efficient logistics partner is essential for success. Blue Harbors Express is committed to providing you with the expertise, resources, and technology you need to take your business to the next level.
-
-Visit our website at www.blueharbors.com/xss to learn more about how we can help you achieve your logistics goals.
+include::../includes/contact.adoc[]

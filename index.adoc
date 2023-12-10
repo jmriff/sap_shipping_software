@@ -212,8 +212,6 @@ Location
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
-== Contact
+In today's competitive world, having a reliable and efficient logistics partner is essential for success. Blue Harbors Express is committed to providing you with the expertise, resources, and technology you need to take your business to the next level.
 
-Let's talk about how Blue Harbors shipping software can benefit your business.  Contact us today.
-
-mailto:info@blueharbors.com[Email info@blueharbors.com]
+Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
