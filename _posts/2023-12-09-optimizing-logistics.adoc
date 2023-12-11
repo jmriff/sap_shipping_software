@@ -16,6 +16,8 @@ As an alternative, you can embed the images directly into the document by settin
 
 In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Solutions comes in.
 
+image:trucks/truck-07.jpg[image]
+
 ## The Evolving Landscape of Supply Chain Management
 
 Over the years, the field of supply chain management has undergone significant transformations. Today, it encompasses a vast array of activities, from sourcing and procurement to logistics management and collaboration with partners. As the Council of Supply Chain Management Professionals (CSCMP) defines it, "supply chain management integrates supply and demand management within and across companies." This means that it's not just about getting products from point A to point B; it's about carefully orchestrating every aspect of the process to ensure efficiency, effectiveness, and customer satisfaction.

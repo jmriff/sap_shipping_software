@@ -43,6 +43,7 @@ As an alternative, you can embed the images directly into the document by settin
   +++
 
 Small Package and Freight Extension for SAP Software
+image:trucks/truck-06.jpg[image]
 
 [qanda]
 How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?::
