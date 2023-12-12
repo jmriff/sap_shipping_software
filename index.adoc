@@ -217,10 +217,10 @@ Location
 {set:cellbgcolor:none}
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:red}
 
 .^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:white}
 
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 {set:cellbgcolor:none}
