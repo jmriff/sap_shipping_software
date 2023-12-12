@@ -202,6 +202,7 @@ Location
 [grid=none]
 |===
 4+|
+{set:cellbgcolor:none}
 
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
