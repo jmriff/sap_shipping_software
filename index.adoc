@@ -206,24 +206,13 @@ Location
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
 {set:cellbgcolor:none}
+
 .^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
 {set:cellbgcolor:none}
 
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 {set:cellbgcolor:none}
 |===
-
-+++
-<div class="bh-image-row">
-  <img src="assets/clients/clientMCKESSON.png" alt="Image 1" style="width:25%; height:auto;"/>
-  <p>&nbsp;&nbsp;</p>
-  <img src="assets/clients/clientHOOKER.png" alt="Image 2" width="25%" height="25%">
-  <p>&nbsp;&nbsp;</p>
-  <img src="assets/clients/clientFXI.png" alt="Image 3" width="25%" height="25%">
-  <p>&nbsp;&nbsp;</p>
-  <img src="assets/clients/clientCARPENTER.png" alt="Image 4" width="25%" height="25%">
-</div>
-+++
 
 
 
