@@ -212,6 +212,17 @@ Location
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
 
++++
+<div class="bh-image-row">
+  <img src="clients/clientMCKESSON.png" alt="Image 1">
+  <img src="clients/clientHOOKER.png" alt="Image 2">
+  <img src="clients/clientFXI.png" alt="Image 3">
+  <img src="clients/clientCARPENTER.png" alt="Image 3">
+</div>
++++
+
+
+
 In today's competitive world, having a reliable and efficient logistics partner is essential for success. Blue Harbors Express is committed to providing you with the expertise, resources, and technology you need to take your business to the next level.
 
 Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
