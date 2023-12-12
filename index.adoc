@@ -215,10 +215,8 @@ Location
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
-{set:cellbgcolor:red}
 
 .^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
-{set:cellbgcolor:white}
 
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
 |===
