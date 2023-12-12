@@ -197,24 +197,22 @@ Location
 
 == Clients
 
-[cols="25%, 25%, 25%, 25%"]
-[stripes=none]
+[istripes-none,cols="25%, 25%, 25%, 25%"]
 [grid=none]
 |===
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:white}
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:white}
 
 .^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:white}
 
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
-{set:cellbgcolor:none}
+{set:cellbgcolor:white}
 
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
-{set:cellbgcolor:none}
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
 {set:cellbgcolor:red}
@@ -223,7 +221,6 @@ Location
 {set:cellbgcolor:white}
 
 .^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
-{set:cellbgcolor:none}
 |===
 
 
