@@ -16,6 +16,7 @@ As an alternative, you can embed the images directly into the document by settin
 
 In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Solutions comes in.
 
+.Blue Harbors Express Shipping on SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com
 image:trucks/truck-07.jpg[image]
 
 ## The Evolving Landscape of Supply Chain Management
