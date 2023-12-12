@@ -1,4 +1,4 @@
-# Parcel and Freight Shipping for SAP
+# Parcel and Freight Add-On for SAP
 :showtitle:
 :page-title: Parcel and Freight Shipping Extension for SAP
 :page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
@@ -17,11 +17,12 @@
 // define an attribute as an alias for a <blank> line.
 :footer: This is a test
 
+Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 
-.Tender and manifest packages using SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com
+.Blue Harbors Express Shipping for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com
 image:trucks/truck-01.jpg[image]
 
-Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
+## Tender and manifest packages using SAP
 
 .E-Commerce and Omnichannel
 ****
