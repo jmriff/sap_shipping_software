@@ -197,21 +197,9 @@ Location
 
 == Clients
 
-[istripes-none,cols="25%, 25%, 25%, 25%"]
+[stripes-none,cols="25%, 25%, 25%, 25%"]
 [grid=none]
 |===
-.^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
-{set:cellbgcolor:white}
-
-.^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
-{set:cellbgcolor:white}
-
-.^|https://www.fxi.com/[image:clients/clientFXI.png[FXI]]
-{set:cellbgcolor:white}
-
-.^|https://carpenter.com[image:clients/clientCARPENTER.png[Carpenter]]
-{set:cellbgcolor:white}
-
 .^|https://www.mckesson.com/[image:clients/clientMCKESSON.png[McKesson]]
 
 .^|https://www.hookerfurniture.com/[image:clients/clientHOOKER.png[Hooker Furniture]]
