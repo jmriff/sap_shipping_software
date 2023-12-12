@@ -214,7 +214,7 @@ Location
 
 +++
 <div class="bh-image-row">
-  <img src="clients/clientMCKESSON.png" alt="Image 1">
+  <img src="assets/clients/clientMCKESSON.png" alt="Image 1">
   <img src="clients/clientHOOKER.png" alt="Image 2">
   <img src="clients/clientFXI.png" alt="Image 3">
   <img src="clients/clientCARPENTER.png" alt="Image 3">
