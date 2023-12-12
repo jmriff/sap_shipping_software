@@ -18,7 +18,7 @@
 :footer: This is a test
 
 
-.Tender and manifest packages using SAP
+.Tender and manifest packages using SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com
 image:trucks/truck-01.jpg[image]
 
 Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
