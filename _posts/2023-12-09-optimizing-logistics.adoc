@@ -1,8 +1,12 @@
 = Optimize Your Logistics for a Seamless Supply Chain
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
-:post-navtitle: Optimized Logistics
-:post-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+:page-navtitle: Optimized Logistics
+:page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+:page-title: Parcel and Freight Shipping Extension for SAP
+:page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
+:page-author: Josh Riff, https://www.linkedin.com/in/joshriff
+:page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
