@@ -1,4 +1,6 @@
 = The Express Shipping Solution Video
+Josh Riff https://www.linkedin.com/in/joshriff/
+v1.0, 2023-01-01
 :showtitle:
 :page-navtitle: Shipping Video
 :page-excerpt: Video providing overview of parcel shipping software for SAP
