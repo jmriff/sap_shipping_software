@@ -1,7 +1,7 @@
 = Carrier Shipping Integration Guide
 :showtitle:
 ifdef::env-name[:relfilesuffix: .adoc]
-:page-navtitle: Carrier Shipping Integration Guide
+:page-navtitle: SAP Shipping Integration
 :page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 :page-root: ../../../
 :imagesdir: ../assets
