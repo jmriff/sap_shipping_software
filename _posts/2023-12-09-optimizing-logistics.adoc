@@ -2,10 +2,7 @@
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
 :page-navtitle: Optimized Logistics
-:page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
-:page-title: Parcel and Freight Shipping Extension for SAP
-:page-description: Powerful embedded shipping platform that uses modern integration to connect SAP to parcel carriers
-:page-author: Josh Riff, https://www.linkedin.com/in/joshriff
+:page-description: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 :page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
