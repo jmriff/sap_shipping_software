@@ -1,6 +1,5 @@
 = Carrier Shipping Integration Guide
 :showtitle:
-:page-layout: post
 :page-navtitle: SAP Carrier Integration
 :page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 :page-root: ../../../
