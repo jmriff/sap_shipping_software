@@ -1,6 +1,6 @@
 = Improving Profit and Customer Service with the Express Shipping Solution
 :showtitle:
-:page-navtitle: Improving Profit and Customer Service
+:page-navtitle: Improve Profit & Service
 :page-excerpt: The Express Shipping Solution Case Study
 :page-root: ../../../
 :imagesdir: ../assets
