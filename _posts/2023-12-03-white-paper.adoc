@@ -2,6 +2,7 @@
 :showtitle:
 :page-navtitle: SAP Carrier Integration
 :page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+:page.excerpt: This is the _excerpt_ of this post.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
