@@ -1,18 +1,11 @@
 = Carrier Shipping Integration Guide
 :showtitle:
-ifdef::env-name[:relfilesuffix: .adoc]
-:page-navtitle: SAP Shipping Integration
+:page-layout: post
+:page-navtitle: SAP Carrier Integration
 :page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
-ifdef::env-vscode[:relfilesuffix: .adoc]
-:sectids:
-////
-Images are not embedded in the HTML output by default. If you have image references in your document, you’ll have to save the image files in the same directory as your converted document.
-
-As an alternative, you can embed the images directly into the document by setting the data-uri document attribute.
-////
 
 .Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 image:trucks/truck-02.jpg[image]
