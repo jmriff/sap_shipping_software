@@ -1,7 +1,9 @@
 = Optimize Your Logistics for a Seamless Supply Chain
-Josh Riff https://www.linkedin.com/in/joshriff/
+Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 v1.0, 2023-12-09
 :showtitle:
+:description: say what
+:copyright: forever
 :page-navtitle: Optimized Logistics
 :page-excerpt: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 :page-root: ../../../
