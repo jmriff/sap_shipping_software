@@ -4,8 +4,8 @@
 :page-excerpt: Overview showing how shipping fits into overall outbound logistics process.
 :page-root: ../../../
 :imagesdir: ../assets
-:data-uri:
-"homepage": "https://erp-parcel-shipping-extension.com/
+:data-uri: // Embed images directly into the document by setting the data-uri document attribute.
+:homepage: https://erp-parcel-shipping-extension.com/
 
 
 SAP Best Practices for Shipping

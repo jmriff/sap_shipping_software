@@ -5,8 +5,8 @@
 :page.excerpt: This is the _excerpt_ of this post.
 :page-root: ../../../
 :imagesdir: ../assets
-:data-uri:
-"homepage": "https://erp-parcel-shipping-extension.com/
+:data-uri: // Embed images directly into the document by setting the data-uri document attribute.
+:homepage: https://erp-parcel-shipping-extension.com/
 
 .Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 image:trucks/truck-02.jpg[image]
