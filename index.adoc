@@ -8,14 +8,11 @@
 :icons: font
 // ifdef::env-vscode[:relfilesuffix: .html]
 // ifdef::env-vscode[:relfileprefix: _posts/]
-:sectids:
 :experimental:
 // ifndef::env-github[:toc:]
 // ifndef::env-github[:toclevels: 1]
 // ifndef::env-github[:toc: preamble]
 :table-frame: none
-// define an attribute as an alias for a <blank> line.
-:footer: This is a test
 
 Generate value for your customers by creating an always-on, always-connected, real-time, transparent supply chain.
 

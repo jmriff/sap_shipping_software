@@ -2,7 +2,7 @@
 :showtitle:
 :page-navtitle: FAQ
 :page-excerpt: Common questions about the Express Shipping Solution are raised and answered here.
-:page-root: ../../../
+:page-root: ../../
 :imagesdir: ../assets
 :data-uri:
 ////
