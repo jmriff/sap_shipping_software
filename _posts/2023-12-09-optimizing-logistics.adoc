@@ -7,6 +7,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
+"homepage": "https://erp-parcel-shipping-extension.com/
 
 
 In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Solutions comes in.

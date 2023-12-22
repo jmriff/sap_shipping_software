@@ -6,6 +6,7 @@
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
+"homepage": "https://erp-parcel-shipping-extension.com/
 
 .Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
 image:trucks/truck-02.jpg[image]

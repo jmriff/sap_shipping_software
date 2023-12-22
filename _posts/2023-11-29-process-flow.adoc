@@ -5,6 +5,7 @@
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri:
+"homepage": "https://erp-parcel-shipping-extension.com/
 
 
 SAP Best Practices for Shipping
