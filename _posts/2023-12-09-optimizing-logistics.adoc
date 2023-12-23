@@ -1,8 +1,8 @@
-= Optimize Your Logistics for a Seamless Supply Chain
+# Optimize Shipping by Integrating Parcel Carriers with SAP
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
 :page-navtitle: Optimized Logistics
-:page-description: Selecting the Best Solution to Integrate Shipping Functions in SAP with Parcel Carriers
+:page-description: Shipping software for SAP provides logistics infrastructure for a Seamless Supply Chain
 :page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
