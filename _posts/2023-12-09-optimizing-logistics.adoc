@@ -9,6 +9,70 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
++++
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+   "@type": "BlogPosting",
+   "@id": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/#BlogPosting",
+   "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/",
+   "headline": "Optimize Shipping by Integrating Parcel Carriers with SAP",
+   "name": "Optimize Shipping by Integrating Parcel Carriers with SAP",
+   "description": "In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Software for SAP comes in.",
+   "datePublished": "2023-12-09T08:00:00+05:00",
+   "dateModified": "2023-12-09T09:00:00+05:00",
+   "inLanguage": "en-US",
+   "author": {
+      "@type": "Person",
+      "@id": "https://www.linkedin.com/in/joshriff#Person",
+      "name": "Josh Riff",
+      "url": "https://www.linkedin.com/in/joshriff"
+   },
+   "copyrightHolder": {
+      "@id": "https://www.linkedin.com/in/joshriff#Person"
+   },
+   "copyrightYear": "2023",
+   "image": [
+      "https://blueharbors.com/xss/assets/img/xss/1x1/truck-07.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-07.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-07.jpg"
+   ],
+   "url": "https://erp-parcel-shipping-extension.com",
+   "isPartOf": {
+      "@type" : "Blog",
+      "@id": "https://erp-parcel-shipping-extension.com/",
+      "name": "Parcel and Freight Shipping Software for SAP",
+      "publisher": {
+         "@id": "https://www.linkedin.com/in/joshriff#Person"
+      }
+   },
+   "isBasedOn": {
+      "@type": "CreativeWork",
+      "name": "Derivative Work",
+      "publisher": "The Logistics Handbook. A Practical Guide for the Supply Chain Management of Health Commodities",
+      "url": "https://pdf.usaid.gov/pdf_docs/pnaeb974.pdf"
+   },
+   "sameAs": [
+      "http://www.productontology.org/id/SAP_ERP",
+      "http://www.productontology.org/id/SAP_EWM",
+      "http://www.productontology.org/id/Freight_transport",
+      "http://www.productontology.org/id/Transportation_management_system",
+      "http://www.productontology.org/id/Parcel_(package)",
+      "http://www.productontology.org/id/Package_delivery",
+      "https://www.fedex.com",
+      "https://www.ups.com",
+      "https://www.sap.com"
+   ], 
+   "genre":["shipping software","logistics software","supply chain software"],
+   "keywords": [
+      "SAP shipping",
+      "SAP logistics",
+      "Parcel carriers",
+      "Shipping software for SAP"
+   ]
+}
+</script>
++++
 
 In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Solutions comes in.
 
