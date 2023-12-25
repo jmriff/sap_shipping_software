@@ -99,13 +99,13 @@ While these individual activities are critical in themselves, the real power of 
 
 At Blue Harbors, we understand the vital role logistics play in today's dynamic business environment. We offer a comprehensive suite of SAP consulting and advisory services designed to help you streamline your operations, optimize costs, and ultimately, deliver exceptional value to your customers.
 
-## Our expertise covers the entire spectrum of logistics activities, including:
+### Our expertise covers the entire spectrum of logistics activities, including:
 
 * *Freight forwarding:*{nbsp}{nbsp} We expertly integrate SAP with air, sea, and land transportation providers across the globe.
 * *Warehousing and distribution:*{nbsp}{nbsp} We design, implement and deploy SAP warehouse solutions to meet your needs.
 * *Supply chain management:*{nbsp}{nbsp} We offer customized solutions to optimize your entire supply chain, from procurement to delivery.
 
-## By partnering with Blue Harbors Express, you can:
+### By partnering with Blue Harbors Express, you can:
 
 * *Reduce costs and improve efficiency:*{nbsp}{nbsp} We leverage our expertise and cutting-edge technology to identify and eliminate inefficiencies in your supply chain.
 
