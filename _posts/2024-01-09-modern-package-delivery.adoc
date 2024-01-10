@@ -8,6 +8,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
+:experimental:
 
 +++
 <script type="application/ld+json">
@@ -110,7 +111,6 @@ I hope this blog post has given you a better understanding of package delivery. 
 Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA and ECC systems.
 
 
-Additional Resources
-
+.Additional Resources
 . https://en.wikipedia.org/wiki/Package_delivery
 . https://www.blueharbors.com/xss
