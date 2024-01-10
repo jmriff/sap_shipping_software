@@ -1,47 +1,116 @@
-
-# Package Delivery: A Modern Guide
+= Package Delivery: A Modern Guide
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
-:page-navtitle: Optimized Logistics
+:page-navtitle: Modern Package Delivery for SAP
 :page-description: Shipping software for SAP provides logistics infrastructure for a Seamless Supply Chain
 :page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
+:experimental:
+
++++
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "@id": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/",
+      "headline": "Package Delivery for SAP: A Modern Guide",
+      "name": "Package Delivery for SAP: A Modern Guide",
+      "description": "In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.",
+      "datePublished": "2024-01-09T08:00:00+05:00",
+      "dateModified": "2024-01-09T09:00:00+05:00",
+      "inLanguage": "en-US",
+      "author": {
+         "@type": "Person",
+         "@id": "https://www.linkedin.com/in/joshriff#Person",
+         "name": "Josh Riff",
+         "url": "https://www.linkedin.com/in/joshriff"
+      },
+      "copyrightHolder": {
+         "@id": "https://www.linkedin.com/in/joshriff#Person"
+      },
+      "copyrightYear": "2023",
+      "image": [
+         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-08.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-08.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-08.jpg"
+      ],
+      "url": "https://erp-parcel-shipping-extension.com",
+      "isPartOf": {
+         "@type" : "Blog",
+         "@id": "https://erp-parcel-shipping-extension.com/",
+         "name": "Parcel and Freight Shipping Software for SAP",
+         "publisher": {
+            "@id": "https://www.linkedin.com/in/joshriff#Person"
+         }
+      },
+      "isBasedOn": {
+         "@type": "CreativeWork",
+         "name": "Package delivery",
+         "publisher": "Wikipedia.org",
+         "url": "https://en.wikipedia.org/wiki/Package_delivery"
+      },
+      "sameAs": [
+         "http://www.productontology.org/id/SAP_ERP",
+      "http://www.productontology.org/id/SAP_EWM",
+      "http://www.productontology.org/id/Freight_transport",
+      "http://www.productontology.org/id/Transportation_management_system",
+      "http://www.productontology.org/id/Parcel_(package)",
+      "http://www.productontology.org/id/Package_delivery",
+      "https://www.fedex.com",
+      "https://www.ups.com",
+      "https://www.sap.com"
+      ], 
+      "genre":["shipping software","logistics software","supply chain software"],
+      "keywords": [
+         "SAP shipping",
+      "SAP logistics",
+      "Parcel carriers",
+      "Shipping software for SAP"
+      ]
+}
+</script>
++++
 
 Package delivery has come a long way since its humble beginnings in the 1840s. Today, there are a variety of package delivery services available, from express delivery to regional carriers. And with the rise of e-commerce, package delivery is more important than ever.
 
-In this blog post, we will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. We will also discuss some of the benefits of using a shipping solution for your SAP system.
+In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.
 
-A Brief History of Package Delivery
+.Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
+image:trucks/truck-08.jpg[Parcel and freight shipping software for SAP]
+
+
+== A Brief History of Package Delivery
 
 The first package delivery services were established in the United Kingdom in the 1840s. These services were primarily used for the delivery of letters and parcels. In the late 19th century, the development of the railroad and the telegraph led to the growth of the package delivery industry.
 
 In the 20th century, the package delivery industry continued to grow, thanks in part to the rise of air travel. Today, there are a number of major package delivery companies, such as UPS, FedEx, and DHL.
 
-The Different Types of Package Delivery Services
+== The Different Types of Package Delivery Services
 
 There are a number of different types of package delivery services available, each with its own advantages and disadvantages.
 
-Express delivery: Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
-Regional carriers: Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
-Ground shipping: Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
-The Challenges of Same-Day Delivery
+[horizontal]
+* Express delivery:: Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
+* Regional carriers:: Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
+* Ground shipping:: Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
+
+== The Challenges of Same-Day Delivery
 
 Same-day delivery is becoming increasingly popular, but it is a challenge for package delivery companies. The main challenge is that it requires a complex network of distribution centers and delivery vehicles.
 
-The Benefits of Using a Shipping Solution for Your SAP System
+== The Benefits of Using a Shipping Solution for Your SAP System
 
 If you use an SAP system to manage your business, you can add shipping functionality to your system to improve efficiency and customer service. A shipping solution can help you automate shipping tasks, such as printing shipping labels and tracking packages. It can also help you improve your relationships with your shipping carriers, customers and trading partners.
 
-I hope this blog post has given you a better understanding of package delivery. If you have any questions, please feel free to leave a comment below.
+I hope this blog post has given you a better understanding of package delivery. If you have any questions, please feel free to contact me at info@blueharbors.com
 
-Blue Harbors article on parcel and freight shipping solutions for SAP systems
-
-
-Websites reviewed
-en.wikipedia.org/wiki/Package_delivery
-www.blueharbors.com/xss
+Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA and ECC systems.
 
 
+Additional Resources
+. https://en.wikipedia.org/wiki/Package_delivery
+. https://www.blueharbors.com/xss
