@@ -1,22 +1,21 @@
-= Package Delivery: A Modern Guide
+= Package Delivery for SAP: An Overview
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
-:page-navtitle: Modern Package Delivery for SAP
+:page-navtitle: Modern Package Delivery
 :page-description: Shipping software for SAP provides logistics infrastructure for a Seamless Supply Chain
 :page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
-:experimental:
 
 +++
 <script type="application/ld+json">
 {
    "@context": "https://schema.org/",
       "@type": "BlogPosting",
-      "@id": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/#BlogPosting",
-      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/",
+      "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/parcel-shipping-history.html/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/parcel-shipping-history.html",
       "headline": "Package Delivery for SAP: A Modern Guide",
       "name": "Package Delivery for SAP: A Modern Guide",
       "description": "In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.",
@@ -95,16 +94,18 @@ There are a number of different types of package delivery services available, ea
 
 [horizontal]
 * Express delivery:: Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
+
 * Regional carriers:: Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
+
 * Ground shipping:: Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
 
 == The Challenges of Same-Day Delivery
 
-Same-day delivery is becoming increasingly popular, but it is a challenge for package delivery companies. The main challenge is that it requires a complex network of distribution centers and delivery vehicles.
+Same-day delivery is becoming increasingly popular, but it is a challenge for package delivery companies. From a supply chain perspective, the main challenge is integrating your logistics operations with your trading partners seamlessly and in real-time.
 
 == The Benefits of Using a Shipping Solution for Your SAP System
 
-If you use an SAP system to manage your business, you can add shipping functionality to your system to improve efficiency and customer service. A shipping solution can help you automate shipping tasks, such as printing shipping labels and tracking packages. It can also help you improve your relationships with your shipping carriers, customers and trading partners.
+If you use an SAP system to manage your business, you can add shipping functionality to your system to improve efficiency and customer service. A shipping solution can help you automate shipping tasks, such as printing shipping labels and tracking packages. It can also help you improve your relationships with your shipping carriers, customers, and suppliers.
 
 I hope this blog post has given you a better understanding of package delivery. If you have any questions, please feel free to contact me at info@blueharbors.com
 
@@ -112,5 +113,7 @@ Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA an
 
 
 Additional Resources
+
 . https://en.wikipedia.org/wiki/Package_delivery
+
 . https://www.blueharbors.com/xss
