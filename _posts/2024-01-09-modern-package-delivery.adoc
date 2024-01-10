@@ -92,9 +92,9 @@ In the 20th century, the package delivery industry continued to grow, thanks in 
 
 There are a number of different types of package delivery services available, each with its own advantages and disadvantages.
 
-* *Express delivery:* Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
-* *Regional carriers:* Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
-* *Ground shipping:* Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
+* *Express delivery:*{nbsp}{nbsp} Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
+* *Regional carriers:*{nbsp}{nbsp} Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
+* *Ground shipping:*{nbsp}{nbsp} Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
 
 == The Challenges of Same-Day Delivery
 
