@@ -1,4 +1,4 @@
-= Package Delivery for SAP: An Overview
+= Modern Package Delivery for SAP
 Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
 :page-navtitle: Modern Package Delivery
@@ -14,8 +14,8 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 {
    "@context": "https://schema.org/",
       "@type": "BlogPosting",
-      "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/parcel-shipping-history.html/#BlogPosting",
-      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/parcel-shipping-history.html",
+      "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
       "headline": "Package Delivery for SAP: A Modern Guide",
       "name": "Package Delivery for SAP: A Modern Guide",
       "description": "In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.",
@@ -92,12 +92,10 @@ In the 20th century, the package delivery industry continued to grow, thanks in 
 
 There are a number of different types of package delivery services available, each with its own advantages and disadvantages.
 
-[horizontal]
-* Express delivery:: Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
-
-* Regional carriers:: Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
-
-* Ground shipping:: Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
+[unordered]
+Express delivery:: Express delivery services are the fastest and most expensive option. They are typically used for urgent shipments.
+Regional carriers:: Regional carriers are a good option for shipping within a specific region. They are typically less expensive than express delivery services.
+Ground shipping:: Ground shipping is the slowest and most affordable option. It is typically used for non-urgent shipments.
 
 == The Challenges of Same-Day Delivery
 
@@ -115,5 +113,4 @@ Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA an
 Additional Resources
 
 . https://en.wikipedia.org/wiki/Package_delivery
-
 . https://www.blueharbors.com/xss
