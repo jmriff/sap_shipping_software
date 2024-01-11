@@ -112,14 +112,14 @@ Say goodbye to extra applications and manual data entry. Blue Harbors Express Sh
 - Visit our website: Learn more about the Express Shipping Solution and its benefits.
 - Contact Blue Harbors: Speak to our representatives and discover how we can streamline your SAP shipping.
 
-====
-Don't just ship smarter, ship seamlessly with Blue Harbors.
-====
+----
+*_Don't just ship smarter, ship seamlessly with Blue Harbors._*
+----
 
 .Additional Resources
 Carrier Shipping Integration Guide:: https://www.slideshare.net/BlueHarbors/blueharborwhitepages
 Blue Harbors Express Shipping Solution:: https://www.blueharbors.com/xss
 
-----
+====
 Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
-----
+====
