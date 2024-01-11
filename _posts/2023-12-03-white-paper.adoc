@@ -117,8 +117,8 @@ Don't just ship smarter, ship seamlessly with Blue Harbors.
 ----
 
 .Additional Resources
-Carrier Shipping Integration Guide:: https://www.slideshare.net/BlueHarbors/blueharborwhitepages
-Blue Harbors Express Shipping Solution:: https://www.blueharbors.com/xss
+. Carrier Shipping Integration Guide: https://www.slideshare.net/BlueHarbors/blueharborwhitepages
+. Blue Harbors Express Shipping Solution: https://www.blueharbors.com/xss
 
 ====
 Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
