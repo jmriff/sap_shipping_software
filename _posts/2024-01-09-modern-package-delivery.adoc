@@ -1,9 +1,8 @@
 = Modern Package Delivery for SAP
-Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
+Josh Riff https://www.linkedin.com/in/joshriff
 :showtitle:
 :page-navtitle: Modern Package Delivery
 :page-description: Shipping software for SAP provides logistics infrastructure for a Seamless Supply Chain
-:page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.

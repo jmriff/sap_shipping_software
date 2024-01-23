@@ -1,4 +1,5 @@
 = Shipping with SAP: Your One-Stop Shop for Efficiency
+Josh Riff https://www.linkedin.com/in/joshriff
 :showtitle:
 :page-navtitle: Shipping with SAP
 :page-description: Forget slow implementations and third-party hassles - your SAP system holds the key to streamlined shipping!
