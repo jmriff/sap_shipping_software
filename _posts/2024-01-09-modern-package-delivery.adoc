@@ -102,6 +102,6 @@ Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA an
 
 .Additional Resources
 . https://en.wikipedia.org/wiki/Package_delivery
-. https://www.blueharbors.com/xss
+. https://blueharbors.com/xss
 
 Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.

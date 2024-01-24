@@ -54,7 +54,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
          "publisher": "USAID, DELIVER PROJECT, Task Order 1, 2011",
          "url": "https://pdf.usaid.gov/pdf_docs/pnaeb974.pdf"
       },
-      "sameAs": "https://www.blueharbors.com/xss",
+      "sameAs": "https://blueharbors.com/xss",
       "genre":["shipping software","logistics software","supply chain software"],
       "keywords": [
          "SAP shipping",
@@ -114,6 +114,6 @@ In today's competitive world, having a reliable and efficient IT logistics partn
 
 .Additional Resources
 . https://pdf.usaid.gov/pdf_docs/pnaeb974.pdf
-. https://www.blueharbors.com/xss
+. https://blueharbors.com/xss
 
 Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
