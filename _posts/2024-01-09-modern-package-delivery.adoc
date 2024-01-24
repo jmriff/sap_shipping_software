@@ -15,6 +15,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "@type": "BlogPosting",
       "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery/#BlogPosting",
       "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery",
+      "about": {"@id": "https://blueharbors.com/xss/#Product"},
       "headline": "Package Delivery for SAP: A Modern Guide",
       "name": "Package Delivery for SAP: A Modern Guide",
       "description": "In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.",
@@ -40,7 +41,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
-         "isPartOf":{"@id": "https://blueharbors.com/xss/#product"},
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#Product"},
          "name": "Parcel and Freight Shipping Software for SAP",
          "publisher": {
             "@id": "https://www.linkedin.com/in/joshriff#Person"

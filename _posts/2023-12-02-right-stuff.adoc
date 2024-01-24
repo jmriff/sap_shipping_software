@@ -15,6 +15,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "@type": "BlogPosting",
       "@id": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff/#BlogPosting",
       "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
+      "about": {"@id": "https://blueharbors.com/xss/#Product"},
       "headline": "Shipping with SAP: Your One-Stop Shop for Efficiency",
       "name": "Shipping with SAP: Your One-Stop Shop for Efficiency",
       "description": "Forget slow implementations and third-party hassles - your SAP system holds the key to streamlined shipping! Parcel Industry Magazine article The Right Stuff: a Spotlight on SAP's Shipping Technology dives into the hidden potential of your SAP system, unveiling powerful tools that connect you directly to major carriers like UPS, FedEx, USPS, and DHL. Don't wait months for a solution. Get parcel and LTL shipping up and running within weeks, transforming your logistics game.",
@@ -40,7 +41,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
-         "isPartOf":{"@id": "https://blueharbors.com/xss/#product"},
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#Product"},
          "name": "Parcel and Freight Shipping Software for SAP",
          "publisher": {
             "@id": "https://www.linkedin.com/in/joshriff#Person"

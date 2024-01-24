@@ -16,7 +16,8 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "@type": "BlogPosting",
       "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html/#BlogPosting",
       "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
-      "headline": "Streamline Your Shipping: A Guide to Integrating SAP with Parcel Carriers",
+  "about": {"@id": "https://blueharbors.com/xss/#Product"},
+  "headline": "Streamline Your Shipping: A Guide to Integrating SAP with Parcel Carriers",
       "name": "Streamline Your Shipping: A Guide to Integrating SAP with Parcel Carriers",
       "description": "Tired of juggling multiple shipping applications and manual processes? Discover how to streamline your SAP shipping with a strategic integration approach. This guide provides a roadmap for developing an integrated SAP shipping strategy: Assess your needs and define goals to optimize your supply chain. Understanding shipping solutions: Explore the functionalities offered by various internet-enabled options. Leveraging the Blue Harbors Express Shipping Solution: See how our SAP add-on simplifies shipping with over 50 carriers.",
       "datePublished": "2023-12-03T08:00:00+05:00",
@@ -41,7 +42,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
-         "isPartOf":{"@id": "https://www.blueharbors.com/xss/#product"},
+         "isPartOf":{"@id": "https://www.blueharbors.com/xss/#Product"},
          "name": "Parcel and Freight Shipping Software for SAP",
          "publisher": {
             "@id": "https://www.linkedin.com/in/joshriff#Person"
