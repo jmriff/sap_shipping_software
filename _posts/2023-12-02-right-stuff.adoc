@@ -52,7 +52,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
          "publisher": "Parcel Industry Magazine",
          "url": "https://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap%E2%80%99s-shipping-technology.html"
       },
-      "sameAs": "https://www.blueharbors.com/xss",
+      "sameAs": "https://blueharbors.com/xss/",
       "genre":["shipping software","logistics software","supply chain software", "shipping API"],
       "keywords": [
          "sap shipping",

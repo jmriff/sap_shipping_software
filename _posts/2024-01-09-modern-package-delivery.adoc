@@ -40,7 +40,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
-         "isPartOf":{"@id": "https://www.blueharbors.com/xss/#product"},
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#product"},
          "name": "Parcel and Freight Shipping Software for SAP",
          "publisher": {
             "@id": "https://www.linkedin.com/in/joshriff#Person"
@@ -52,7 +52,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
          "publisher": "Wikipedia.org",
          "url": "https://en.wikipedia.org/wiki/Package_delivery"
       },
-      "sameAs": "https://www.blueharbors.com/xss",
+      "sameAs": "https://blueharbors.com/xss",
       "genre":["shipping software","logistics software","supply chain software", "shipping API"],
       "keywords": [
          "SAP shipping",
