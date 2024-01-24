@@ -15,6 +15,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "@type": "BlogPosting",
       "@id": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff/#BlogPosting",
       "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
+      "url": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
       "about": {"@id": "https://blueharbors.com/xss/#Product"},
       "headline": "Shipping with SAP: Your One-Stop Shop for Efficiency",
       "name": "Shipping with SAP: Your One-Stop Shop for Efficiency",
@@ -26,7 +27,14 @@ Josh Riff https://www.linkedin.com/in/joshriff
          "@type": "Person",
          "@id": "https://www.linkedin.com/in/joshriff#Person",
          "name": "Josh Riff",
-         "url": "https://www.linkedin.com/in/joshriff"
+         "url": "https://www.linkedin.com/in/joshriff",
+         "knowsAbout": [
+            "https://www.sap.com",
+         "https://en.wikipedia.org/wiki/Package_delivery",
+         "https://en.wikipedia.org/wiki/Warehouse_management_system",
+         "https://en.wikipedia.org/wiki/Supply_chain_management",
+         "https://en.wikipedia.org/wiki/Information_technology_consulting"
+         ]
       },
       "copyrightHolder": {
          "@id": "https://www.linkedin.com/in/joshriff#Person"
@@ -37,7 +45,6 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "https://blueharbors.com/xss/assets/img/xss/4x3/truck-04.jpg",
       "https://blueharbors.com/xss/assets/img/xss/16x9/truck-04.jpg"
       ],
-      "url": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",

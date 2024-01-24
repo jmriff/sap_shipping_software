@@ -16,6 +16,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "@type": "BlogPosting",
       "@id": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/#BlogPosting",
       "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/",
+      "url": "https://erp-parcel-shipping-extension.com/2023/12/09/optimizing-logistics/",
       "about": {"@id": "https://blueharbors.com/xss/#Product"},
       "headline": "Optimize Shipping by Integrating Parcel Carriers with SAP",
       "name": "Optimize Shipping by Integrating Parcel Carriers with SAP",
@@ -27,7 +28,14 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
          "@type": "Person",
          "@id": "https://www.linkedin.com/in/joshriff#Person",
          "name": "Josh Riff",
-         "url": "https://www.linkedin.com/in/joshriff"
+         "url": "https://www.linkedin.com/in/joshriff",
+         "knowsAbout": [
+            "https://www.sap.com",
+         "https://en.wikipedia.org/wiki/Package_delivery",
+         "https://en.wikipedia.org/wiki/Warehouse_management_system",
+         "https://en.wikipedia.org/wiki/Supply_chain_management",
+         "https://en.wikipedia.org/wiki/Information_technology_consulting"
+         ]
       },
       "copyrightHolder": {
          "@id": "https://www.linkedin.com/in/joshriff#Person"
@@ -38,7 +46,6 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "https://blueharbors.com/xss/assets/img/xss/4x3/truck-07.jpg",
       "https://blueharbors.com/xss/assets/img/xss/16x9/truck-07.jpg"
       ],
-      "url": "https://erp-parcel-shipping-extension.com",
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
