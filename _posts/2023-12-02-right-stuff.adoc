@@ -8,6 +8,64 @@ Josh Riff https://www.linkedin.com/in/joshriff
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
++++
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "@id": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
+      "headline": "Shipping with SAP: Your One-Stop Shop for Efficiency",
+      "name": "Shipping with SAP: Your One-Stop Shop for Efficiency",
+      "description": "Forget slow implementations and third-party hassles - your SAP system holds the key to streamlined shipping! Parcel Industry Magazine article The Right Stuff: a Spotlight on SAP's Shipping Technology dives into the hidden potential of your SAP system, unveiling powerful tools that connect you directly to major carriers like UPS, FedEx, USPS, and DHL. Don't wait months for a solution. Get parcel and LTL shipping up and running within weeks, transforming your logistics game.",
+      "datePublished": "2023-12-02T08:00:00+05:00",
+      "dateModified": "2023-12-02T09:00:00+05:00",
+      "inLanguage": "en-US",
+      "author": {
+         "@type": "Person",
+         "@id": "https://www.linkedin.com/in/joshriff#Person",
+         "name": "Josh Riff",
+         "url": "https://www.linkedin.com/in/joshriff"
+      },
+      "copyrightHolder": {
+         "@id": "https://www.linkedin.com/in/joshriff#Person"
+      },
+      "copyrightYear": "2023",
+      "image": [
+         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-04.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-04.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-04.jpg"
+      ],
+      "url": "https://erp-parcel-shipping-extension.com/2023/12/02/right-stuff",
+      "isPartOf": {
+         "@type" : "Blog",
+         "@id": "https://erp-parcel-shipping-extension.com/",
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#product"},
+         "name": "Parcel and Freight Shipping Software for SAP",
+         "publisher": {
+            "@id": "https://www.linkedin.com/in/joshriff#Person"
+         }
+      },
+      "isBasedOn": {
+         "@type": "CreativeWork",
+         "name": "The Right Stuff: a Spotlight on SAP's Shipping Technology",
+         "publisher": "Parcel Industry Magazine",
+         "url": "https://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap%E2%80%99s-shipping-technology.html"
+      },
+      "sameAs": "https://www.blueharbors.com/xss",
+      "genre":["shipping software","logistics software","supply chain software", "shipping API"],
+      "keywords": [
+         "sap shipping",
+      "sap shipping software",
+      "shipping solution",
+      "shipping software for sap",
+      "shipping integration",
+      "shipping integration solution"
+      ]
+}
+</script>
++++
+
 Forget slow implementations and third-party hassles - your SAP system holds the key to streamlined shipping!
 
 https://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html[The Right Stuff: a Spotlight on SAP's Shipping Technology] dives into the hidden potential of your SAP system, unveiling powerful tools that connect you directly to major carriers like UPS, FedEx, USPS, and DHL. Don't wait months for a solution. Get parcel and LTL shipping up and running within weeks, transforming your logistics game.
@@ -48,7 +106,7 @@ Learn even more about the Express Shipping Solution and the value it brings to y
 Blue Harbors article on parcel and freight shipping solutions for SAP S/4HANA and ECC systems.
 
 .Additional Resources
-. https://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology
+. https://parcelindustry.com/article-3929-the-right-stuff-a-spotlight-on-sap's-shipping-technology.html
 . https://blueharbors.com/xss
 . https://www.linkedin.com/in/joshriff
 
