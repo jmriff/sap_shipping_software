@@ -8,7 +8,7 @@ Josh Riff https://www.linkedin.com/in/joshriff
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
-In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satification.
+In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier APIs improve your profits and customer satification.
 
 .Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
 image:trucks/truck-03.jpg[SAP shipping software]
@@ -60,4 +60,3 @@ https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-
 Profit and Customer Service with the Express Shipping Solution].
 ====
 
-Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
