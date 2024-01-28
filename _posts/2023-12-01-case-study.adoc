@@ -1,12 +1,78 @@
 = Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain
 Josh Riff https://www.linkedin.com/in/joshriff
 :showtitle:
-:page-navtitle: Streamline your Supply Chain
+:page-navtitle: Streamlined Supply Chain
 :page-description: In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satification.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
+
++++
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "@id": "https://erp-parcel-shipping-extension.com/2023/12/01/case-study/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/12/01/case-study",
+      "url": "https://erp-parcel-shipping-extension.com/2023/12/01/case-study",
+      "about": {"@id": "https://blueharbors.com/xss/#Product"},
+      "headline": "Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain",
+      "name": "Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain",
+      "description": "In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satification.",
+      "datePublished": "2023-12-01T08:00:00+05:00",
+      "dateModified": "2023-12-01T09:00:00+05:00",
+      "inLanguage": "en-US",
+      "author": {
+         "@type": "Person",
+         "@id": "https://www.linkedin.com/in/joshriff#Person",
+         "name": "Josh Riff",
+         "url": "https://www.linkedin.com/in/joshriff",
+         "knowsAbout": [
+            "https://www.sap.com",
+         "https://en.wikipedia.org/wiki/Package_delivery",
+         "https://en.wikipedia.org/wiki/Warehouse_management_system",
+         "https://en.wikipedia.org/wiki/Supply_chain_management",
+         "https://en.wikipedia.org/wiki/Information_technology_consulting"
+         ]
+      },
+      "copyrightHolder": {
+         "@id": "https://www.linkedin.com/in/joshriff#Person"
+      },
+      "copyrightYear": "2023",
+      "image": [
+         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-03.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-03.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-03.jpg"
+      ],
+      "isPartOf": {
+         "@type" : "Blog",
+         "@id": "https://erp-parcel-shipping-extension.com/",
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#Product"},
+         "name": "Parcel and Freight Shipping Software for SAP",
+         "publisher": {
+            "@id": "https://www.linkedin.com/in/joshriff#Person"
+         }
+      },
+      "isBasedOn": {
+         "@type": "CreativeWork",
+         "name": "Improving Profit and Customer Service with the Express Shipping Solution",
+         "publisher": "Slideshare.net",
+         "url": "https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-sap-78101294"
+      },
+      "sameAs": "https://blueharbors.com/xss/",
+      "genre":["shipping software","logistics software","supply chain software", "shipping API"],
+      "keywords": [
+         "sap shipping",
+      "sap shipping software",
+      "shipping solution",
+      "shipping software for sap",
+      "shipping integration",
+      "shipping integration solution"
+      ]
+}
+</script>
++++
 
 In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier APIs improve your profits and customer satification.
 
