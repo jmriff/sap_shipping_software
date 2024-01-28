@@ -1,20 +1,61 @@
-= Improving Profit and Customer Service with the Express Shipping Solution
+= Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain
+Josh Riff https://www.linkedin.com/in/joshriff
 :showtitle:
-:page-navtitle: Improve Profit & Service
-:page-excerpt: The Express Shipping Solution Case Study
+:page-navtitle: Streamline your Supply Chain
+:page-description: In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satification.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
-A Case Study Highlighting Shipping Via the Cloud with SAP and Carrier Web Services
+In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satification.
 
-image:trucks/truck-03.jpg[image]
+.Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
+image:trucks/truck-03.jpg[SAP shipping software]
+
+== What is the Express Shipping Solution for SAP?
+
+The Express Shipping Solution for SAP is a software program empedded in SAP that automates and optimizes your shipping processes. This can include tasks such as:
+
+- Creating shipping labels
+- Integrating with weighing scales and barcode scanners
+- Tracking shipments
+- Managing shipping rates and discounts
+- Generating customs documentation
+
+== Benefits of using an express shipping solution for SAP
+
+There are many benefits to using an express shipping solution for SAP. Some of the most notable benefits include:
+
+- *Reduced costs:* By automating your shipping processes, you can save time and money on labor, postage, and errors.
+- *Improved efficiency:* An express shipping solution can help you to streamline your shipping operations and get your products to your customers faster.
+- *Increased accuracy:* By automating tasks such as label creation and tracking, you can reduce the risk of errors.
+- *Better visibility:* An express shipping solution can give you real-time visibility into your shipments, so you can track their progress and make sure they arrive on time.
+
+== Who can benefit from an express shipping solution for SAP?
+
+The Express Shipping Solution for SAP can benefit businesses of all sizes, in a variety of industries. Some of the industries that can benefit the most include:
+
+- Manufacturing
+- Retail
+- E-commerce
+- Healthcare
+- Food and beverage
+
+== Conclusion
+
+If you're looking for ways to improve your shipping and logistics operations, then an express shipping solution for SAP is a great investment. This software can help you to save time and money, improve efficiency, and increase accuracy. With an express shipping solution, you can take your supply chain to the next level.
 
 For customers who are seeking ways to drive more efficiency from their shipping processes and derive more value from their software investments, the Express Shipping Solution provides a set of tools that can connect your SAP-based shipping functions directly to those offered by parcel carriers such as UPS, FedEx, USPS and DHL via the shippers' own web services. This case study focuses on a recent implementation of the Express Shipping Solution at a large pharmaceutical company. This implementation was a successful example of how the Express Shipping Solution combines the native tools available in SAP, including the Express Ship Interface, and the cloud-based shipping services offered by parcel carriers, to improve the efficiency of a large shipping operation.
 
+== Call to action
+
+Read the Case Study to learn more about how the Express Shipping Solution for SAP can benefit your business. Then contact us for a free consultation at info@blueharbors.com.
+
+====
 The Express Shipping Solution Case Study:
 https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-sap-78101294[Improving
 Profit and Customer Service with the Express Shipping Solution].
+====
 
 Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
