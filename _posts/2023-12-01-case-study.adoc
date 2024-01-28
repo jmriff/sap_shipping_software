@@ -50,7 +50,9 @@ For customers who are seeking ways to drive more efficiency from their shipping 
 
 == Call to action
 
-Read the Case Study to learn more about how the Express Shipping Solution for SAP can benefit your business. Then contact us for a free consultation at info@blueharbors.com.
+Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
+
+Read the Case Study to learn more about how the Express Shipping Solution for SAP can benefit your business. Then contact Blue Harbors for a free consultation at info@blueharbors.com.
 
 ====
 The Express Shipping Solution Case Study:
@@ -58,4 +60,4 @@ https://www.slideshare.net/BlueHarbors/case-study-express-shipping-solution-for-
 Profit and Customer Service with the Express Shipping Solution].
 ====
 
-Learn even more about the Express Shipping Solution and the value it brings to your company. Our API-based shipping product isn't only about the physical transportation of goods. It is enabling technology for interconnected data flows and supply chain networks. Leverage SAP Best Practices for small package and freight shipping.
+Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
