@@ -1,13 +1,40 @@
-= Business Process Flow
+= SAP Best Practices for Shipping
 :showtitle:
-:page-navtitle: Business Process Flow
+:page-navtitle: Best Practices
 :page-excerpt: Overview showing how shipping fits into overall outbound logistics process.
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
+The outbound delivery process in SAP starts with the creation of an outbound delivery. This can be done with reference to a sales order. Once the outbound delivery is created, the picking process can begin. This involves selecting items from a warehouse. Once the items have been picked, they can be packed. This involves placing items in packaging materials. Finally, the items can be shipped to the customer.
 
-SAP Best Practices for Shipping
+Outbound Business Process Flow
+.Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
+image:shipping_process_flow.png[Parcel and freight shipping software for SAP]
 
-image:shipping_process_flow.png[Shipping Process Flow]
+== Outbound delivery processing in SAP
+. *Create an outbound delivery:* The system can pick items automatically during outbound delivery creation. You can also specify the items you want to pick manually.
+. *Pick the items:* The picking process is tracked using picking statuses. Once the items have been picked, you can pack them.
+. *Pack the items:* You can pack the items into boxes or other containers. Once the items have been packed, you can ship them.
+. *Ship the items:* You can ship the items by truck, ship, or other means of transportation.
+. *Handle errors:* If there are any errors during the outbound delivery process, you can correct them and continue with the process.
+
+=== Additional notes
+- The specific steps involved in outbound delivery processing may vary depending on your company's specific requirements.
+- It is important to follow your company's procedures for outbound delivery processing.
+
+
+----
+Don't just ship smarter, ship seamlessly with Blue Harbors.
+----
+
+.Additional Resources
+. Carrier Shipping Integration Guide +
+https://download.consolut.com/direct/SAP_PrintDoku/en/LESHP/LESHP.PDF
+. Blue Harbors Express Shipping Solution +
+https://blueharbors.com/xss
+
+====
+Email us at info@blueharbors.com to learn more about how we can help you achieve your logistics goals.
+====
