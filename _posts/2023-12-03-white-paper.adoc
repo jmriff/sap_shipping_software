@@ -1,5 +1,5 @@
 = Streamline Your Shipping: A Guide to Integrating SAP with Parcel Carriers
-Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
+Josh Riff https://www.linkedin.com/in/joshriff
 :showtitle:
 :page-navtitle: SAP Carrier Integration
 :page-description: streamline your shipping by integrating SAP with parcel carriers
