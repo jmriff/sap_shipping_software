@@ -9,7 +9,7 @@
 
 The outbound delivery process in SAP starts with the creation of an outbound delivery. This can be done with reference to a sales order. Once the outbound delivery is created, the picking process can begin. This involves selecting items from a warehouse. Once the items have been picked, they can be packed. This involves placing items in packaging materials. Finally, the items can be shipped to the customer.
 
-Outbound Business Process Flow
+== Outbound Business Process Flow
 .Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
 image:shipping_process_flow.png[Parcel and freight shipping software for SAP]
 
