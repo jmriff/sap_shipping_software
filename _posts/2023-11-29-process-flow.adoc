@@ -15,14 +15,14 @@ image:shipping_process_flow.png[Parcel and freight shipping software for SAP]
 
 ===  Delivery processing steps in SAP
 [horizontal]
-(10) Create sales order :: A sales order serves as a basis for the outbound delivery.
-(20) Create an outbound delivery :: The system can pick items automatically during outbound delivery creation. You can also specify the items you want to pick manually.
-(30) Pick the items :: The picking process is tracked using picking statuses. Once the items have been picked, you can pack them.
-(40) Pack the items :: You can pack the items into boxes or other containers. Once the items have been packed, you can ship them.
-(50) Ship the items :: Post goods issue and ship the items.  You can ship the items by parcel carrier, freight carrier, or other means of transportation.
-(60) Parcel tracking :: Perform real-time parcel tracking within existing logistics documents, including sales order, delivery and shipment.
-(70) Proof of delviery :: Capture the date and time product arrived at the customer location, as well as the name of the person who signed for the package.
-Error handling :: If there are any errors during the outbound delivery process, you can correct them and continue with the process.
+(10) :: *Create sales order.* A sales order serves as a basis for the outbound delivery.
+(20) :: *Create an outbound delivery.* The system can pick items automatically during outbound delivery creation. You can also specify the items you want to pick manually.
+(30) :: *Pick the items.* The picking process is tracked using picking statuses. Once the items have been picked, you can pack them.
+(40) :: *Pack the items.* You can pack the items into boxes or other containers. Once the items have been packed, you can ship them.
+(50) :: *Ship the items.* Post goods issue and ship the items.  You can ship the items by parcel carrier, freight carrier, or other means of transportation.
+(60) :: *Parcel tracking.* Perform real-time parcel tracking within existing logistics documents, including sales order, delivery and shipment.
+(70) :: *Proof of delviery.* Capture the date and time product arrived at the customer location, as well as the name of the person who signed for the package.
+*Error handling.*  If there are any errors during the outbound delivery process, you can correct them and continue with the process.
 
 === Additional notes
 - The specific steps involved in outbound delivery processing may vary depending on your company's specific requirements.
