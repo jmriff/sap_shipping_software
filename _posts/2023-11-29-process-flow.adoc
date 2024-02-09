@@ -1,4 +1,4 @@
-= SAP Best Practices for Shipping
+= SAP Best Practices for Shipping with Parcel Carriers
 :showtitle:
 :page-navtitle: Best Practices
 :page-excerpt: Overview showing how shipping fits into overall outbound logistics process.
@@ -6,6 +6,75 @@
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
+ 
++++
+<script type="application/ld+json">
+{
+   "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
+      "url": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
+      "about": {"@id": "https://blueharbors.com/xss/#Product"},
+      "headline": "SAP Best Practices for Shipping with Parcel Carriers",
+      "name": "SAP Best Practices for Shipping with Parcel Carriers",
+      "description": "The outbound delivery process in SAP starts with the creation of an outbound delivery. This can be done with reference to a sales order. Once the outbound delivery is created, the picking process can begin. This involves selecting items from a warehouse. Once the items have been picked, they can be packed. This involves placing items in packaging materials. Finally, the items can be shipped to the customer.",
+      "datePublished": "2023-11-29T08:00:00+05:00",
+      "dateModified": "2023-11-29T09:00:00+05:00",
+      "inLanguage": "en-US",
+      "author": {
+         "@type": "Person",
+         "@id": "https://www.linkedin.com/in/joshriff#Person",
+         "name": "Josh Riff",
+         "url": "https://www.linkedin.com/in/joshriff",
+         "knowsAbout": [
+            "https://www.sap.com",
+         "https://en.wikipedia.org/wiki/Package_delivery",
+         "https://en.wikipedia.org/wiki/Warehouse_management_system",
+         "https://en.wikipedia.org/wiki/Supply_chain_management",
+         "https://en.wikipedia.org/wiki/Information_technology_consulting"
+         ]
+      },
+      "copyrightHolder": {
+         "@id": "https://www.linkedin.com/in/joshriff#Person"
+      },
+      "copyrightYear": "2023",
+      "image": [
+         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-02.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-02.jpg",
+      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-02.jpg"
+      ],
+      "isPartOf": {
+         "@type" : "Blog",
+         "@id": "https://erp-parcel-shipping-extension.com/",
+         "isPartOf":{"@id": "https://blueharbors.com/xss/#Product"},
+         "name": "Parcel and Freight Shipping Software for SAP",
+         "publisher": {
+            "@id": "https://www.linkedin.com/in/joshriff#Person"
+         }
+      },
+      "isBasedOn": {
+         "@type": "CreativeWork",
+         "name": "Package delivery",
+         "publisher": "SAP SE",
+         "url": "https://download.consolut.com/direct/SAP_PrintDoku/en/LESHP/LESHP.PDF"
+      },
+      "sameAs": "https://blueharbors.com/xss",
+      "genre":["shipping software","logistics software","supply chain software"],
+      "keywords": [
+         "sap parcel shipping",
+      "sap parcel tracking",
+      "sap parcel tracking delivery",
+      "sap shipping",
+      "sap shipping best practices",
+      "sap parcel best practices",
+      "sap best practices",
+      "sap shipping solutions"
+      ]
+}
+</script>
++++
+
 
 The outbound delivery process in SAP starts with the creation of an outbound delivery. This can be done with reference to a sales order. Once the outbound delivery is created, the picking process can begin. This involves selecting items from a warehouse. Once the items have been picked, they can be packed. This involves placing items in packaging materials. Finally, the items can be shipped to the customer.
 
