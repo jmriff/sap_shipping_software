@@ -12,9 +12,9 @@
 {
    "@context": "https://schema.org/",
       "@type": "BlogPosting",
-      "@id": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html/#BlogPosting",
-      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
-      "url": "https://erp-parcel-shipping-extension.com/2024/01/09/modern-package-delivery.html",
+      "@id": "https://erp-parcel-shipping-extension.com/2023/11/29/process-flow/#BlogPosting",
+      "mainEntityOfPage": "https://erp-parcel-shipping-extension.com/2023/11/29/process-flow",
+      "url": "https://erp-parcel-shipping-extension.com/2023/11/29/process-flow",
       "about": {"@id": "https://blueharbors.com/xss/#Product"},
       "headline": "SAP Best Practices for Shipping with Parcel Carriers",
       "name": "SAP Best Practices for Shipping with Parcel Carriers",
@@ -39,11 +39,7 @@
          "@id": "https://www.linkedin.com/in/joshriff#Person"
       },
       "copyrightYear": "2023",
-      "image": [
-         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-02.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-02.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-02.jpg"
-      ],
+      "image": "https://erp-parcel-shipping-extension.com/assets/shipping_process_flow.png",
       "isPartOf": {
          "@type" : "Blog",
          "@id": "https://erp-parcel-shipping-extension.com/",
@@ -55,8 +51,8 @@
       },
       "isBasedOn": {
          "@type": "CreativeWork",
-         "name": "Package delivery",
-         "publisher": "SAP SE",
+         "name": "Shipping (LE-SHP)",
+         "publisher": "SAP AG",
          "url": "https://download.consolut.com/direct/SAP_PrintDoku/en/LESHP/LESHP.PDF"
       },
       "sameAs": "https://blueharbors.com/xss",
