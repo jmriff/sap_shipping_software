@@ -1,6 +1,7 @@
-= Frequently Asked Questions
+= Top 5 Questions About SAP Shipping Software for Parcel Carriers
 :showtitle:
-:page-navtitle: FAQ
+:sectnums:
+:page-navtitle: FAQs
 :page-excerpt: Common questions about the Express Shipping Solution are raised and answered here.
 :page-root: ../../../
 :imagesdir: ../assets
@@ -38,6 +39,8 @@
   </script>
   +++
 
+By asking the right questions and carefully evaluating your options, you can find the best SAP shipping software solution to optimize your parcel shipping operations and improve efficiency.
+
 Small Package and Freight Extension for SAP Software
 image:trucks/truck-06.jpg[image]
 
@@ -56,3 +59,48 @@ Shipping is seamlessly imbedded into existing logistics business processes and t
 How does the Express Shipping Solution improve shipping visability and manage carrier performance?::
 
 Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
+
+
+
+
+== Compatibility and integration
+
+[qanda]
+Which specific SAP systems is the software compatible with? (e.g., S/4HANA, ECC, etc.)::
+
+We support S/4HANA and ECC.
+
+How seamlessly does it integrate with my existing SAP environment? Are there any additional configurations or connectors needed?::
+
+How does it handle data exchange with different parcel carriers? Does it require separate integrations for each carrier?::
+
+== Functionality and features
+
+What specific features does it offer for managing parcel shipments? (e.g., label generation, multi-carrier rate shopping, shipment tracking, international shipping compliance)
+Does it support advanced functionalities like automated routing, dynamic packaging, or returns management?
+Can it be customized to meet my specific business needs and workflows?
+
+== Cost and licensing:
+
+What is the pricing model for the software? Is it a one-time fee, subscription, or usage-based?
+Are there any additional licensing costs involved, such as per-user or per-carrier fees?
+What is the expected return on investment (ROI) for implementing the software?
+
+== Scalability and performance:
+
+Can the software handle my current and future shipment volumes?
+How does it perform during peak seasons or with high transaction volumes?
+Is the software cloud-based or on-premise? Which deployment option best suits my needs?
+
+== Support and training:
+
+What level of customer support does the vendor offer? Is it available 24/7 and through multiple channels?
+Does the vendor provide training resources and user guides for the software?
+Is there a community forum or knowledge base available for troubleshooting and best practices?
+These are just some of the key questions to consider when evaluating SAP shipping software for parcel carriers. It's important to conduct thorough research and compare different options based on your specific requirements and budget.
+
+== Additionally, depending on your specific needs, you might also want to consider questions about:
+
+Security and compliance: Does the software meet industry standards for data security and regulatory compliance?
+Mobile access: Can the software be accessed and used on mobile devices?
+Reporting and analytics: Does the software offer robust reporting and analytics capabilities to track shipping performance and identify cost savings opportunities?
