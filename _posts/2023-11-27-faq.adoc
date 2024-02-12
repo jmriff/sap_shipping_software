@@ -76,24 +76,28 @@ How does it handle data exchange with different parcel carriers? Does it require
 
 == Functionality and features
 
+[qanda]
 What specific features does it offer for managing parcel shipments? (e.g., label generation, multi-carrier rate shopping, shipment tracking, international shipping compliance)
 Does it support advanced functionalities like automated routing, dynamic packaging, or returns management?
 Can it be customized to meet my specific business needs and workflows?
 
 == Cost and licensing:
 
+[qanda]
 What is the pricing model for the software? Is it a one-time fee, subscription, or usage-based?
 Are there any additional licensing costs involved, such as per-user or per-carrier fees?
 What is the expected return on investment (ROI) for implementing the software?
 
 == Scalability and performance:
 
+[qanda]
 Can the software handle my current and future shipment volumes?
 How does it perform during peak seasons or with high transaction volumes?
 Is the software cloud-based or on-premise? Which deployment option best suits my needs?
 
 == Support and training:
 
+[qanda]
 What level of customer support does the vendor offer? Is it available 24/7 and through multiple channels?
 Does the vendor provide training resources and user guides for the software?
 Is there a community forum or knowledge base available for troubleshooting and best practices?
@@ -101,6 +105,7 @@ These are just some of the key questions to consider when evaluating SAP shippin
 
 == Additionally, depending on your specific needs, you might also want to consider questions about:
 
+[qanda]
 Security and compliance: Does the software meet industry standards for data security and regulatory compliance?
 Mobile access: Can the software be accessed and used on mobile devices?
 Reporting and analytics: Does the software offer robust reporting and analytics capabilities to track shipping performance and identify cost savings opportunities?
