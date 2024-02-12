@@ -1,6 +1,5 @@
 = Top 5 Questions About SAP Shipping Software for Parcel Carriers
 :showtitle:
-:sectnums:
 :page-navtitle: FAQs
 :page-excerpt: Common questions about the Express Shipping Solution are raised and answered here.
 :page-root: ../../../
@@ -66,20 +65,49 @@ Shipping progress is visable from all standard logistics documents with real-tim
 == Compatibility and integration
 
 [qanda]
-Which specific SAP systems is the software compatible with? (e.g., S/4HANA, ECC, etc.)::
+Which specific SAP systems is the software compatible with?::
 
-We support S/4HANA and ECC.
+The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.
 
-How seamlessly does it integrate with my existing SAP environment? Are there any additional configurations or connectors needed?::
+How seamlessly does it integrate with my existing SAP environment?::
+
+The Express Shipping Solution is embedded software that integrates seamlessly with your existing SAP environment.  
+
+Are there any additional configurations or connectors needed?::
+
+Standard SAP customizing is used to configuration shipping options and no additional connectors or middleware is required to communicate with the carriers.
+
 
 How does it handle data exchange with different parcel carriers? Does it require separate integrations for each carrier?::
+
+The Express Shipping Solution uses separate integrations for each carrier. It does this by using the carrier's own web services. This allows the Express Shipping Solution to connect directly to the carrier and exchange data electronically. This eliminates the need for manual data entry and reduces the risk of errors.
 
 == Functionality and features
 
 [qanda]
-What specific features does it offer for managing parcel shipments? (e.g., label generation, multi-carrier rate shopping, shipment tracking, international shipping compliance)
-Does it support advanced functionalities like automated routing, dynamic packaging, or returns management?
-Can it be customized to meet my specific business needs and workflows?
+What specific features does it offer for managing parcel shipments? (e.g., label generation, multi-carrier rate shopping, shipment tracking, international shipping compliance)::
+
+The Express Shipping Solution offers the following features for managing parcel shipments:
+
+- Label generation for all connected carriers in SAP
+
+- Real-time carrier selection
+
+- Shipment tracking
+
+- Proof of delivery capture
+
+- Multi-carrier support
+
+- International shipping compliance
+
+Does it support advanced functionalities like automated routing, dynamic packaging, or returns management?::
+
+The Express Shipping Solutio for SAP does support advanced functionalities like automated routing, dynamic packaging, and returns management.
+
+Can it be customized to meet my specific business needs and workflows?::
+
+The Express Shipping Solution is a pre-built solution that can be customized to meet your specific business needs and workflows.
 
 == Cost and licensing:
 
