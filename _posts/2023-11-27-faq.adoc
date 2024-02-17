@@ -47,17 +47,17 @@ image:trucks/truck-06.jpg[image]
 How does the Express Shipping Solution provide value for my customers and furnish competative advantage to my company?::
 
 Provide your customers with streamlined reliable shipping services.
-Define customer preferences and leverage exsiting SAP data to reduce
-shipping errors and eliminate the need to synchonize data between
+Define customer preferences and leverage existing SAP data to reduce
+shipping errors and eliminate the need to synchronize data between
 applications. The customer's ordering experience is improved, driven by dependable, simple, trouble-free shipping. Key metrics, such as “On time, In full” (A) improve as a result.
 
-How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?::
+How does the Express Shipping Solution deliver ROI and improve warehouse efficiencies?::
 
 Shipping is seamlessly imbedded into existing logistics business processes and transactions (sales orders, deliveries, and shipments), providing ease-of-use to Order Taking and Order Fulfillment Teams.  Additionally, automation and warehouse efficiencies come from integrating SAP with conveyors, scales, scanners, and other devices.
 
-How does the Express Shipping Solution improve shipping visability and manage carrier performance?::
+How does the Express Shipping Solution improve shipping visibility and manage carrier performance?::
 
-Shipping progress is visable from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
+Shipping progress is visible from all standard logistics documents with real-time parcel tracking. Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exceptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors.
 
 
 
@@ -103,7 +103,7 @@ The Express Shipping Solution offers the following features for managing parcel 
 
 Does it support advanced functionalities like automated routing, dynamic packaging, or returns management?::
 
-The Express Shipping Solutio for SAP does support advanced functionalities like automated routing, dynamic packaging, and returns management.
+The Express Shipping Solution for SAP does support advanced functionalities like automated routing, dynamic packaging, and returns management.
 
 Can it be customized to meet my specific business needs and workflows?::
 
