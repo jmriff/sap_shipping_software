@@ -112,9 +112,19 @@ The Express Shipping Solution is a pre-built solution that can be customized to 
 == Cost and licensing:
 
 [qanda]
-What is the pricing model for the software? Is it a one-time fee, subscription, or usage-based?
-Are there any additional licensing costs involved, such as per-user or per-carrier fees?
-What is the expected return on investment (ROI) for implementing the software?
+What is the pricing model for the software?  Is it a one-time fee, subscription, or usage-based?::
+
+The Express Shipping Solution is licensed from Blue Harbors and has two pricing components -
+* a one-time feed to implement the solution in your SAP system
+* an annual licensing fee, which includes support and maintenance
+
+
+Are there any additional licensing costs involved, such as per-user or per-carrier fees?::
+
+There are no additional costs - just the one-time implementation fee and annual licensing fee.
+
+
+
 
 == Scalability and performance:
 
