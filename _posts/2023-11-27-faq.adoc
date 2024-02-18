@@ -22,7 +22,16 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
          "dateCreated": "2023-11-27T21:11Z",
          "author": {
             "@type": "Person",
-            "name": "Josh Riff"
+            "@id": "https://www.linkedin.com/in/joshriff#Person",
+            "name": "Josh Riff",
+            "url": "https://www.linkedin.com/in/joshriff",
+            "knowsAbout": [
+               "https://www.sap.com",
+            "https://en.wikipedia.org/wiki/Package_delivery",
+            "https://en.wikipedia.org/wiki/Warehouse_management_system",
+            "https://en.wikipedia.org/wiki/Supply_chain_management",
+            "https://en.wikipedia.org/wiki/Information_technology_consulting"
+            ]
          },
          "acceptedAnswer": {
             "@type": "Answer",
@@ -31,8 +40,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
             "dateCreated": "2023-11-27T21:11Z",
             "url": "https://elite-strategies.com/learn-seo/on-page-seo/eat-ymyl/",
             "author": {
-               "@type": "Person",
-               "name": "Josh Riff"
+               "@id": "https://www.linkedin.com/in/joshriff#Person"
             }
          }
       }

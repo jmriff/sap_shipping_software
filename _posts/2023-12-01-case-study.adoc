@@ -20,8 +20,8 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "headline": "Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain",
       "name": "Express Shipping Solution for SAP: A Powerful Tool for Streamlining Your Supply Chain",
       "description": "In today's fast-paced business world, efficiency is key. This is especially true for your shipping and logistics operations. If you're looking for ways to streamline your supply chain and save time and money, then an express shipping solution for SAP is a must-have.  Read this Case Study that explains how shipping with SAP and Carrier Web Services improves your profits and customer satisfaction.",
-      "datePublished": "2023-12-01T08:00:00+05:00",
-      "dateModified": "2023-12-01T09:00:00+05:00",
+      "datePublished": "2023-12-01T08:00Z",
+      "dateModified": "2023-12-01T09:00Z",
       "inLanguage": "en-US",
       "author": {
          "@type": "Person",
