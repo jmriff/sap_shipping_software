@@ -38,7 +38,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
             "text": "The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.  It supports SAP Extended Warehouse Management (EWM), warehouse management (WM), decentralized warehouse management (DWM), and inventory management (IM).",
             "upvotecount": 1,
             "dateCreated": "2023-11-27T21:11Z",
-            "url": "https://elite-strategies.com/learn-seo/on-page-seo/eat-ymyl/",
+            "url": "https://erp-parcel-shipping-extension.com/2023/11/27/faq",
             "author": {
                "@id": "https://www.linkedin.com/in/joshriff#Person"
             }
