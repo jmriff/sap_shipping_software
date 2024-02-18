@@ -1,7 +1,9 @@
 = Top 15 Questions About SAP Shipping Software for Parcel Carriers
+Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :showtitle:
-:page-navtitle: FAQs
-:page-excerpt: Common questions about the Express Shipping Solution are raised and answered here.
+:page-navtitle: 15 FAQs
+:page-description: Common questions about the Express Shipping Solution are raised and answered here.
+:page-copyright: Common Commons license BY-NC-ND
 :page-root: ../../../
 :imagesdir: ../assets
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
@@ -10,49 +12,52 @@
 +++
 <script type="application/ld+json">
 {
-    "@context": "https://schema.org",
-    "@type": "QAPage",
-    "mainEntity": {
-      "@type": "Question",
-      "name": "What does Google mean by E-A-T.",
-      "text": "Within the past few years, Google has started talking a lot about E-A-T in regards to SEO.",
-      "answerCount": 1,
-      "dateCreated": "2019-08-10T21:11Z",
-      "author": {
-        "@type": "Person",
-        "name": "Patrick Coombe"
-      },
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "In SEO, E-A-T stands for expertise, authority, and trustworthiness. It is a term derived directly from Google's own quality raters guidelines.",
-        "upvotecount": 1,
-        "dateCreated": "2019-08-12T21:11Z",
-        "url": "https://elite-strategies.com/learn-seo/on-page-seo/eat-ymyl/",
-        "author": {
-          "@type": "Person",
-          "name": "Patrick Coombe"
-        }
+   "@context": "https://schema.org",
+      "@type": "QAPage",
+      "mainEntity": {
+         "@type": "Question",
+         "name": "Which specific SAP systems is the software compatible with?",
+         "text": "Which specific SAP systems is the software compatible with?",
+         "answerCount": 1,
+         "dateCreated": "2023-11-27T21:11Z",
+         "author": {
+            "@type": "Person",
+            "name": "Josh Riff"
+         },
+         "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.  It supports SAP Extended Warehouse Management (EWM), warehouse management (WM), decentralized warehouse management (DWM), and inventory management (IM).",
+            "upvotecount": 1,
+            "dateCreated": "2023-11-27T21:11Z",
+            "url": "https://elite-strategies.com/learn-seo/on-page-seo/eat-ymyl/",
+            "author": {
+               "@type": "Person",
+               "name": "Josh Riff"
+            }
+         }
       }
-    }
-  }
-  </script>
-  +++
+}
+</script>
++++
 
 By asking the right questions and carefully evaluating your options, you can find the best SAP shipping software solution to optimize your parcel shipping operations and improve efficiency.
 
+This article provides a variety of common questions that help you assess and compare shipping solutions.  Additionaly, information for a specific shipping tool - the Express Shipping Solution - is provided as an example.
+
 .Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
 image:trucks/truck-06.jpg[SAP shipping software]
+
 
 == Compatibility and integration
 
 [qanda]
 Which specific SAP systems is the software compatible with?::
 
-The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.
+The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.  It supports SAP Extended Warehouse Management (EWM), warehouse management (WM), decentralized warehouse management (DWM), and inventory management (IM).
 
 How seamlessly does it integrate with my existing SAP environment?::
 
-The Express Shipping Solution is embedded software that integrates seamlessly with your existing SAP environment.  
+The Express Shipping Solution is embedded software that integrates seamlessly with your existing SAP environment.  It leverages standard SAP tools, such as the express ship interface (XSI) and the API communication layer.
 
 Are there any additional configurations or connectors needed?::
 
@@ -106,7 +111,7 @@ Shipping progress is visible from all standard logistics documents with real-tim
 [qanda]
 What is the pricing model for the software?  Is it a one-time fee, subscription, or usage-based?::
 
-The Express Shipping Solution is licensed from Blue Harbors and has two pricing components -
+The Express Shipping Solution is licensed from Blue Harbors and has two pricing components
 * a one-time feed to implement the solution in your SAP system
 * an annual licensing fee, which includes support and maintenance
 
