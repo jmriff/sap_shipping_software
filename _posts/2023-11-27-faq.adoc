@@ -17,82 +17,36 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "mainEntity": [
          {
             "@type": "Question",
-            "about": {
-               "@id": "https://blueharbors.com/xss/#Product"
-            },
+            "about": {"@id": "https://blueharbors.com/xss/#Product"},
             "name": "Which specific SAP systems is the software compatible with?",
             "acceptedAnswer": {
                "@type": "Answer",
-               "about": {
-                  "@id": "https://blueharbors.com/xss/#Product"
-               },
+               "about": {"@id": "https://blueharbors.com/xss/#Product"},
                "text": "The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.  It supports SAP Extended Warehouse Management (EWM), warehouse management (WM), decentralized warehouse management (DWM), and inventory management (IM)."
             }
          },
          {
             "@type": "Question",
-            "about": {
-               "@id": "https://blueharbors.com/xss/#Product"
-            },
-            "name": "How does the Express Shipping Solution deliver ROI and improve warehouse effeciencies?",
+            "about": {"@id": "https://blueharbors.com/xss/#Product"},
+            "name": "How seamlessly does it integrate with my existing SAP environment?",
             "acceptedAnswer": {
                "@type": "Answer",
-               "about": {
-                  "@id": "https://blueharbors.com/xss/#Product"
-               },
-               "text": "Shipping is seamlessly imbedded into existing logistics business processes and transactions (sales orders, deliveries, and shipments), providing ease-of-use to Order Taking and Order Fulfillment Teams.  Additionally, automation and warehouse efficiencies come from integrating SAP with conveyors, scales, scanners, and other devices."
+               "about": {"@id": "https://blueharbors.com/xss/#Product"},
+               "text": "The Express Shipping Solution is embedded software that integrates seamlessly with your existing SAP environment.  It leverages standard SAP tools, such as the express ship interface (XSI) and the API communication layer."
             }
          },
          {
             "@type": "Question",
-            "about": {
-               "@id": "https://blueharbors.com/xss/#Product"
-            },
-            "name": "How does the Express Shipping Solution improve shipping visability and manage carrier performance?",
+            "about": {"@id": "https://blueharbors.com/xss/#Product"},
+            "name": "Are there any additional configurations or connectors needed?",
             "acceptedAnswer": {
                "@type": "Answer",
-               "about": {
-                  "@id": "https://blueharbors.com/xss/#Product"
-               },
-               "text": "Shipping progress is visable from all standard logistics documents with real-time parcel tracking.  Proof Of Delivery (POD) details are captured in the system for use in building shipping metrics. Monitoring and reporting of shipping activity highlights delivery exeptions.  Proactively alert customers delays, quickly raise issues to the carriers, and minimize billing errors."
+               "about": {"@id": "https://blueharbors.com/xss/#Product"},
+               "text": "Standard SAP customizing is used to configuration shipping options and no additional connectors or middleware is required to communicate with the carriers."
             }
          }
       ]
-   },
-{
-   "@context": "https://schema.org",
-      "@type": "QAPage",
-      "mainEntity": {
-         "@type": "Question",
-         "name": "Which specific SAP systems is the software compatible with?",
-         "text": "Which specific SAP systems is the software compatible with?",
-         "answerCount": 1,
-         "dateCreated": "2023-11-27T21:11Z",
-         "author": {
-            "@type": "Person",
-            "@id": "https://www.linkedin.com/in/joshriff#Person",
-            "name": "Josh Riff",
-            "url": "https://www.linkedin.com/in/joshriff",
-            "knowsAbout": [
-               "https://www.sap.com",
-            "https://en.wikipedia.org/wiki/Package_delivery",
-            "https://en.wikipedia.org/wiki/Warehouse_management_system",
-            "https://en.wikipedia.org/wiki/Supply_chain_management",
-            "https://en.wikipedia.org/wiki/Information_technology_consulting"
-            ]
-         },
-         "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "The Express Shipping Solution is fully compatible with SAP S/4HANA and ECC.  It supports SAP Extended Warehouse Management (EWM), warehouse management (WM), decentralized warehouse management (DWM), and inventory management (IM).",
-            "upvotecount": 1,
-            "dateCreated": "2023-11-27T21:11Z",
-            "url": "https://erp-parcel-shipping-extension.com/2023/11/27/faq",
-            "author": {
-               "@id": "https://www.linkedin.com/in/joshriff#Person"
-            }
-         }
-      }
-}
+   }
 </script>
 +++
 
