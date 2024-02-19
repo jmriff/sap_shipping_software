@@ -9,7 +9,7 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
 :data-uri: // Embed images directly into the document by setting the data-uri document attribute.
 :homepage: https://erp-parcel-shipping-extension.com/
 
-Finding the right SAP shipping software for your parcel carrier business can be challenging. Asking the right questions is crucial for making an informed decision. This FAQ addresses key areas, using the Express Shipping Solution as an example, to guide your evaluation process. Remember, consider your specific needs and compare options to find the best fit.
+Finding the right SAP shipping software for your parcel carrier business can be challenging. Asking the right questions is crucial for making an informed decision. This FAQ addresses key areas, using the https://blueharbors.com/xss[Express Shipping Solution] as an example, to guide your evaluation process. Remember, consider your specific needs and compare options to find the best fit.
 
 .Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
 image:trucks/truck-06.jpg[SAP shipping software]
@@ -53,5 +53,5 @@ image:trucks/truck-06.jpg[SAP shipping software]
 Remember, this is not an exhaustive list. Research thoroughly, compare options, and ask additional questions based on your unique needs and budget.
 
 .Additional Resources
-. Blue Harbors Website: https://blueharbors.com/xss
+. Express Shipping Solution for SAP: https://blueharbors.com/xss
 . Email info@blueharbors.com to learn more about how Blue Harbors can help you achieve your logistics goals
