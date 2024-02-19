@@ -1,0 +1,57 @@
+= Top 15 Questions for Picking SAP Shipping Software
+Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
+:showtitle:
+:page-navtitle: 15+ FAQs
+:page-description: Common questions about the Express Shipping Solution are raised and answered here.
+:page-copyright: Common Commons license BY-NC-ND
+:page-root: ../../../
+:imagesdir: ../assets
+:data-uri: // Embed images directly into the document by setting the data-uri document attribute.
+:homepage: https://erp-parcel-shipping-extension.com/
+
+Finding the right SAP shipping software for your parcel carrier business can be challenging. Asking the right questions is crucial for making an informed decision. This FAQ addresses key areas, using the Express Shipping Solution as an example, to guide your evaluation process. Remember, consider your specific needs and compare options to find the best fit.
+
+.Parcel and Freight Shipping Software for SAP{nbsp}{nbsp}|{nbsp}{nbsp}Contact info@blueharbors.com to learn more
+image:trucks/truck-06.jpg[SAP shipping software]
+
+== Compatibility and Integration
+- *What SAP systems are supported?* The Express Shipping Solution works with SAP S/4HANA and ECC, including EWM, WM, DWM, and IM.
+- *Integration smoothness:* Seamlessly embedded, it utilizes standard SAP tools like XSI and API communication.
+- *Additional configurations/connectors?* No, standard SAP customizing handles shipping options. Carrier communication uses their web services, eliminating manual entry and errors.
+
+== Functionality and Features
+- *Parcel management features:* Label generation for all connected carriers, real-time carrier selection, shipment tracking, POD capture, multi-carrier support, and international compliance.
+- *Advanced functionalities:* Automated routing, dynamic packaging, and returns management are not standard but may be customizable.
+- *Customization:* The pre-built solution can be adapted to your specific workflows and needs.
+- *Customer value and competitive advantage:* Streamlined shipping, reduced errors, improved customer experience, and improved "On time, In full" (OTIF) metrics.
+- *Carrier performance and visibility:* Real-time tracking, POD capture for metrics, proactive delay alerts, issue escalation, and minimized billing errors.
+
+== Cost and Licensing
+- *Pricing model:* One-time implementation fee and annual licensing fee (includes support and maintenance).
+- *Additional fees:* None, just the initial and annual fees.
+- *ROI and warehouse efficiency:* Seamless integration with existing processes, automation, and warehouse device integration.
+
+== Scalability and Performance
+- *Volume capacity:* Handles small businesses to large enterprises, with scalability and customization options.
+- *Peak season/high volume:* Designed for such periods with a robust platform that scales.
+- *Deployment option:* Modern embedded software in SAP, accessible from anywhere with internet (no standalone software/hardware costs).
+
+
+
+== Support and Training
+- *Vendor support:* Blue Harbors offers email, phone, live demonstrations, carrier network information, shipping services and capabilities, and solution technology demonstrations in SAP S/4HANA.
+
+
+== Additional Considerations
+- *Security and compliance:* Does it meet industry standards?
+- *Mobile access:* Can it be used on mobile devices?
+- *Reporting and analytics:* Does it offer robust capabilities for tracking performance and cost savings?
+
+
+
+== Conclusion
+Remember, this is not an exhaustive list. Research thoroughly, compare options, and ask additional questions based on your unique needs and budget.
+
+.Additional Resources
+. Blue Harbors Website: https://blueharbors.com/xss
+. Email info@blueharbors.com to learn more about how Blue Harbors can help you achieve your logistics goals
