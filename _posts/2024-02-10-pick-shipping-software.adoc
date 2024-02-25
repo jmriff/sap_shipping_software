@@ -42,9 +42,9 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       },
       "copyrightYear": "2024",
       "image": [
-         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-06.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-06.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-06.jpg"
+         "https://erp-parcel-shipping-extension.com/assets/1x1/truck-06.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/4x3/truck-06.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/16x9/truck-06.jpg"
       ],
       "isPartOf": {
          "@type" : "Blog",
