@@ -21,8 +21,8 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       "headline": "Optimize Shipping by Integrating Parcel Carriers with SAP",
       "name": "Optimize Shipping by Integrating Parcel Carriers with SAP",
       "description": "In today's interconnected world, efficient logistics are vital for businesses of all sizes. Whether you're a small online retailer or a multinational corporation, getting your products to your customers quickly and cost-effectively is essential to your success. But navigating the complexities of the global supply chain can be a daunting task. That's where Blue Harbors Express Shipping Software for SAP comes in.",
-      "datePublished": "2023-12-09T08:00:00+05:00",
-      "dateModified": "2023-12-09T09:00:00+05:00",
+      "datePublished": "2023-12-09T08:00Z",
+      "dateModified": "2023-12-09T09:00Z",
       "inLanguage": "en-US",
       "author": {
          "@type": "Person",
@@ -42,9 +42,9 @@ Josh Riff www.linkedin.com/in/joshriff <josh.riff@blueharbors.com>
       },
       "copyrightYear": "2023",
       "image": [
-         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-07.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-07.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-07.jpg"
+         "https://erp-parcel-shipping-extension.com/assets/1x1/truck-07.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/4x3/truck-07.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/16x9/truck-07.jpg"
       ],
       "isPartOf": {
          "@type" : "Blog",

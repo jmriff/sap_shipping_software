@@ -20,8 +20,8 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "headline": "Shipping with SAP: Your One-Stop Shop for Efficiency",
       "name": "Shipping with SAP: Your One-Stop Shop for Efficiency",
       "description": "Forget slow implementations and third-party hassles - your SAP system holds the key to streamlined shipping! Parcel Industry Magazine article The Right Stuff: a Spotlight on SAP's Shipping Technology dives into the hidden potential of your SAP system, unveiling powerful tools that connect you directly to major carriers like UPS, FedEx, USPS, and DHL. Don't wait months for a solution. Get parcel and LTL shipping up and running within weeks, transforming your logistics game.",
-      "datePublished": "2023-12-02T08:00:00+05:00",
-      "dateModified": "2023-12-02T09:00:00+05:00",
+      "datePublished": "2023-12-02T08:00Z",
+      "dateModified": "2023-12-02T09:00Z",
       "inLanguage": "en-US",
       "author": {
          "@type": "Person",
@@ -41,9 +41,9 @@ Josh Riff https://www.linkedin.com/in/joshriff
       },
       "copyrightYear": "2023",
       "image": [
-         "https://blueharbors.com/xss/assets/img/xss/1x1/truck-04.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/4x3/truck-04.jpg",
-      "https://blueharbors.com/xss/assets/img/xss/16x9/truck-04.jpg"
+         "https://erp-parcel-shipping-extension.com/assets/1x1/truck-04.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/4x3/truck-04.jpg",
+      "https://erp-parcel-shipping-extension.com/assets/16x9/truck-04.jpg"
       ],
       "isPartOf": {
          "@type" : "Blog",
