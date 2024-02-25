@@ -21,8 +21,8 @@ Josh Riff https://www.linkedin.com/in/joshriff
       "headline": "Package Delivery for SAP: A Modern Guide",
       "name": "Package Delivery for SAP: A Modern Guide",
       "description": "In this blog post, I will discuss the history of package delivery, the different types of package delivery services available, and the challenges of same-day delivery. I will also discuss some of the benefits of using a shipping solution for your SAP system.",
-      "datePublished": "2024-01-09T08:00:00+05:00",
-      "dateModified": "2024-01-09T09:00:00+05:00",
+      "datePublished": "2024-01-09T08:00Z",
+      "dateModified": "2024-01-09T09:00Z",
       "inLanguage": "en-US",
       "author": {
          "@type": "Person",
