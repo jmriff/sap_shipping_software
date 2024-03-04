@@ -12,11 +12,12 @@ v1.0, 2023-01-01
 +++
 <script type="application/ld+json">
 {
-      "@context": "http://schema.org",
+      "@context": "https://schema.org",
       "@type": "VideoObject",
       "@id": "https://blueharbors.com/xss/#video",
       "embedUrl": "https://www.youtube.com/embed/2aFaZnsOpYg",
       "thumbnailUrl": "http://img.youtube.com/vi/2aFaZnsOpYg/0.jpg",
+      "name": "Integrated Shipping and Tracking Solution for SAP Video Object",
       "description": "Presentation of parcel shipping software for SAP. Generate labels for all connected carriers in SAP, SAP Master Data Integration, Scale and Bar Code Scanning Support, Custom Shipping Preference Defaults, Rate Procurement with Real-Time Carrier Selection, Reverse Logistics Capabilities, Tracking Number Creation, Track Shipments in SAP, Day End Close Activities",
       "contentUrl": "https://youtu.be/2aFaZnsOpYg",
       "publisher": {
@@ -29,7 +30,6 @@ v1.0, 2023-01-01
       },
       "duration": "PT8M5S",
       "uploadDate": "2017-07-23",
-      "name": "Integrated Shipping and Tracking Solution for SAP Video Object",
       "about": {
          "@id": "https://blueharbors.com/xss/#Product"
       }
